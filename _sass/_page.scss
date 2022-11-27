@@ -399,3 +399,11 @@
   font-size: $type-size-6;
   text-transform: uppercase;
 }
+
+
+.wrapper {
+  display: grid;
+  grid-template-columns: repeat(3, 17vw);
+  grid-template-rows: repeat(4, 17vw);
+  grid-gap: 2px;
+}

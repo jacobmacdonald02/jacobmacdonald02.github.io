@@ -154,4 +154,14 @@ var addressPoints = [
     45.424721,
     -75.695000
   ],
+  [
+    "Maputo, Mozambique",
+    -25.96553,
+    32.58322
+  ],
+  [
+    "Quelimane, Mozambique",
+    -17.87861,  
+    36.88833
+  ],
 ];

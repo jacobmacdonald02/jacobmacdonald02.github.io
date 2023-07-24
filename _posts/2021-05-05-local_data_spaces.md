@@ -8,7 +8,7 @@ tags:
 ---
 
 
-Collected links and writings about the Local Data Spaces programme. A six month collaboration between ADR-UK, the ONS, and the Joint Biosecurity Centre. I was fortunate to be one of the embedded researchers using secure national data and registries to explore local economic vulnerabilities and challenges. Winner of the 2021 ONS Research Excellence Award.
+<span style="color: white;">Collected links and writings about the Local Data Spaces programme - winner of the 2021 ONS Research Excellence Award. A six month collaboration between ADR-UK, the ONS, and the Joint Biosecurity Centre. I was fortunate to be one of the embedded researchers using secure national data and registries to explore local economic vulnerabilities and challenges.</span>
 
 
 [https://www.cdrc.ac.uk/local-data-spaces/](https://www.cdrc.ac.uk/local-data-spaces/)

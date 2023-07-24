@@ -8,7 +8,7 @@ tags:
 ---
 
 
-Writing developed for the National Centre for Research Methods (NCRM) wayfinder guides. 
+<span style="color: white;">Writing developed for the National Centre for Research Methods (NCRM) wayfinder guides.</span>
 
 [https://eprints.ncrm.ac.uk/id/eprint/4474/](https://eprints.ncrm.ac.uk/id/eprint/4474/){:target="_blank"}
 

@@ -14,3 +14,12 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+
+&nbsp;
+&nbsp;
+**'<font size="+3"><span style="color:white">Conference Proceedings</span></font>'**
+
+{% for post in site.proceedings reversed %}
+  {% include archive-single.html %}
+{% endfor %}

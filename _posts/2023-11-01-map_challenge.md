@@ -402,6 +402,50 @@ _**<span style="color: white;">DAY 9 - HEXAGONS</span>**_
   </body>
 </html>
 
+
+_**<span style="color: white;">DAY 10 - NORTH AMERICA</span>**_
+&nbsp;
+
+<html>
+  <head>
+    <title><span style="color: white;">DAY 10 - NORTH AMERICA</span></title>
+  </head>
+  <style>
+  .container {
+    display: flex;
+    align-items: left;
+    justify-content: left;
+  }
+  
+  img {
+    max-width: 100%;
+    max-height:100%;
+    float: left;
+  }
+
+  .image {
+    flex-shrink: 0;
+  }
+  
+  .text {
+    font-size: 15px;
+    padding-left: 20px;
+    padding-bottom: 30%;
+    float: left;
+  }
+  </style>
+  <body>
+    <div class="container">
+      <div class="text">
+        <span style="color: white; font-weight:bold; font-size:17px;">North America:</span> <span style="color: white; font-size:15px;">The earliest confirmed European settlers to North America came around 1021 in L’Anse-Aux-Meadows at the tip of NL’s Great Northern Peninsula. Vikings were in North America well before Columbus sailed the ocean blue. All Newfoundlanders I’m sure can recite “In 1492 Columbus sailed the ocean blue, in 1497 John Cabot discovered heaven (aka. NL)” — but I suppose this needs updating… “in 1021, Leif Erickson followed the sun?…. discovered the fun?”… not quite the same ring. The archaeological site was first discovered around 1960. But Vikings were just the European settlers, and the area was active for thousands of year before with indigenous populations, most notably the Dorset people around 500 years before the Vikings.️</span>
+      </div>
+      <div class="image">
+        <img style="margin: 3px 12px 3px 0px; border:1px solid black;" src="/images/Blogs/Map_Challenge2023/10 - North America.jpeg" height="400" width="400" />
+      </div>
+    </div>
+  </body>
+</html>
+
 &nbsp;
 
 

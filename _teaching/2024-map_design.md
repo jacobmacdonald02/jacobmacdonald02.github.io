@@ -39,6 +39,6 @@ location: "Sheffield, UK"
 &nbsp;
 &nbsp;
 
-<span style="color: white;">**Thanks for your support!**</span>
+<span style="color: white;">**Thanks for your support! And please share this widely across your U. Sheffield student networks.**</span>
 
 <span style="color:white">Any issues or challenges, please email: j.macdonald@sheffield.ac.uk</span>

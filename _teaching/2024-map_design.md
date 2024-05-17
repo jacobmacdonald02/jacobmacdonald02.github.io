@@ -29,11 +29,11 @@ location: "Sheffield, UK"
  
 - <span style="color: white;">You should conduct this survey on a computer. It would be useful in some cases to be able to zoom in a bit more on the map, which is difficult on a mobile device.</span>
  
-- <span style="color: white;">You will be asked a pseudo-anonymous ID at each stage. This will let us connect the answers together while maintaining anonymity. Please come up with a random <WORD><NUMBER> combination (e.g. cat09; train329). This can be anything unique BUT PLEASE REMEMBER IT AND ENTER IT CONSISTENTLY FOR EACH ROUND OF MAPS YOU ARE LOOKING AT.</span>
+- <span style="color: white;">You will be asked a pseudo-anonymous ID at each stage. This will let us connect the answers together while maintaining anonymity. Please come up with a random <WORD><NUMBER> combination (e.g. cat09; train329). This can be anything unique BUT PLEASE REMEMBER IT AND ENTER IT CONSISTENTLY FOR EACH ROUND OF MAPS YOU ARE LOOKING AT. </span>
 
 &nbsp;
 &nbsp;
-
+### <u><span style="color: white;">PARTICIPATE HERE</span></u>
 ### <span style="color:white">[https://tinyurl.com/33f2wkw6](https://tinyurl.com/33f2wkw6){:target="_blank"}</span>
 
 &nbsp;

@@ -446,6 +446,904 @@ _**<span style="color: white;">DAY 10 - NORTH AMERICA</span>**_
   </body>
 </html>
 
+
+_**<span style="color: white;">DAY 11 - RETRO</span>**_
+&nbsp;
+
+<html>
+  <head>
+    <title><span style="color: white;">DAY 11 - RETRO</span></title>
+  </head>
+  <style>
+  .container {
+    display: flex;
+    align-items: left;
+    justify-content: left;
+  }
+  
+  img {
+    max-width: 100%;
+    max-height:100%;
+    float: left;
+  }
+
+  .image {
+    flex-shrink: 0;
+  }
+  
+  .text {
+    font-size: 15px;
+    padding-left: 20px;
+    padding-bottom: 30%;
+    float: left;
+  }
+  </style>
+  <body>
+    <div class="container">
+      <div class="image">
+        <img style="margin: 3px 12px 3px 0px; border:1px solid black;" src="/images/Blogs/Map_Challenge2023/9 - Hexagons.jpeg" height="400" width="400" />
+      </div>
+      <div class="text">
+        <span style="color: white; font-weight:bold; font-size:17px;">Retro:</span> <span style="color: white; font-size:15px;">Went full on synthwave here to depict the contour elevation profile of one of the greatest natural harbour defence system - The Narrows! Cannons and forts are found across the north and south sides. Great hikes and stunning views from here.</span>
+      </div>
+    </div>
+  </body>
+</html>
+
+
+_**<span style="color: white;">DAY 12 - SOUTH AMERICA</span>**_
+&nbsp;
+
+<html>
+  <head>
+    <title><span style="color: white;">DAY 12 - SOUTH AMERICA</span></title>
+  </head>
+  <style>
+  .container {
+    display: flex;
+    align-items: left;
+    justify-content: left;
+  }
+  
+  img {
+    max-width: 100%;
+    max-height:100%;
+    float: left;
+  }
+
+  .image {
+    flex-shrink: 0;
+  }
+  
+  .text {
+    font-size: 15px;
+    padding-left: 20px;
+    padding-bottom: 30%;
+    float: left;
+  }
+  </style>
+  <body>
+    <div class="container">
+      <div class="text">
+        <span style="color: white; font-weight:bold; font-size:17px;">South America:</span> <span style="color: white; font-size:15px;">I love a good open dataset. Especially street trees and green amenities in a city. For todays #30DayMapChallenge in South America here is a heatmap density plot of the street trees in Buenos Aires and public greenspaces.️</span>
+      </div>
+      <div class="image">
+        <img style="margin: 3px 12px 3px 0px; border:1px solid black;" src="/images/Blogs/Map_Challenge2023/10 - North America.jpeg" height="400" width="400" />
+      </div>
+    </div>
+  </body>
+</html>
+
+
+_**<span style="color: white;">DAY 13 - CHOROPLETH</span>**_
+&nbsp;
+
+<html>
+  <head>
+    <title><span style="color: white;">DAY 13 - CHOROPLETH</span></title>
+  </head>
+  <style>
+  .container {
+    display: flex;
+    align-items: left;
+    justify-content: left;
+  }
+  
+  img {
+    max-width: 100%;
+    max-height:100%;
+    float: left;
+  }
+
+  .image {
+    flex-shrink: 0;
+  }
+  
+  .text {
+    font-size: 15px;
+    padding-left: 20px;
+    padding-bottom: 30%;
+    float: left;
+  }
+  </style>
+  <body>
+    <div class="container">
+      <div class="image">
+        <img style="margin: 3px 12px 3px 0px; border:1px solid black;" src="/images/Blogs/Map_Challenge2023/9 - Hexagons.jpeg" height="400" width="400" />
+      </div>
+      <div class="text">
+        <span style="color: white; font-weight:bold; font-size:17px;">Choropleth:</span> <span style="color: white; font-size:15px;">Average colour of pubs across Great Britain. I like pubs - their cozy, vibrant… and often named after colours. The White Hare; The Red Badger? Here I’ve extracted all pubs with a colour in its name and averaged them by Local Authorities.</span>
+      </div>
+    </div>
+  </body>
+</html>
+
+
+_**<span style="color: white;">DAY 14 - EUROPE</span>**_
+&nbsp;
+
+<html>
+  <head>
+    <title><span style="color: white;">DAY 14 - EUROPE</span></title>
+  </head>
+  <style>
+  .container {
+    display: flex;
+    align-items: left;
+    justify-content: left;
+  }
+  
+  img {
+    max-width: 100%;
+    max-height:100%;
+    float: left;
+  }
+
+  .image {
+    flex-shrink: 0;
+  }
+  
+  .text {
+    font-size: 15px;
+    padding-left: 20px;
+    padding-bottom: 30%;
+    float: left;
+  }
+  </style>
+  <body>
+    <div class="container">
+      <div class="text">
+        <span style="color: white; font-weight:bold; font-size:17px;">Europe:</span> <span style="color: white; font-size:15px;">Tous les Terre-Neuviens français connaissent Saint-Pierre et Miquelon! Un petit bout de France à seulement quelques heures. Tant de voyages scolaires où nous allions en Europe pour manger un pain au chocolat. De bons souvenirs d'ici.️</span>
+      </div>
+      <div class="image">
+        <img style="margin: 3px 12px 3px 0px; border:1px solid black;" src="/images/Blogs/Map_Challenge2023/10 - North America.jpeg" height="400" width="400" />
+      </div>
+    </div>
+  </body>
+</html>
+
+
+_**<span style="color: white;">DAY 15 - OSM</span>**_
+&nbsp;
+
+<html>
+  <head>
+    <title><span style="color: white;">DAY 15 - OSM</span></title>
+  </head>
+  <style>
+  .container {
+    display: flex;
+    align-items: left;
+    justify-content: left;
+  }
+  
+  img {
+    max-width: 100%;
+    max-height:100%;
+    float: left;
+  }
+
+  .image {
+    flex-shrink: 0;
+  }
+  
+  .text {
+    font-size: 15px;
+    padding-left: 20px;
+    padding-bottom: 30%;
+    float: left;
+  }
+  </style>
+  <body>
+    <div class="container">
+      <div class="image">
+        <img style="margin: 3px 12px 3px 0px; border:1px solid black;" src="/images/Blogs/Map_Challenge2023/9 - Hexagons.jpeg" height="400" width="400" />
+      </div>
+      <div class="text">
+        <span style="color: white; font-weight:bold; font-size:17px;">OSM:</span> <span style="color: white; font-size:15px;">Rumour had it in high school that over in the west end of St. John’s some old city planner had spelled out S-E-X with the roads. Many a night spent parked up on Signal Hill trying to search for it - anyone who said they’d actually see it was BS.</span>
+      </div>
+    </div>
+  </body>
+</html>
+
+
+_**<span style="color: white;">DAY 16 - OCEANIA</span>**_
+&nbsp;
+
+<html>
+  <head>
+    <title><span style="color: white;">DAY 16 - OCEANIA</span></title>
+  </head>
+  <style>
+  .container {
+    display: flex;
+    align-items: left;
+    justify-content: left;
+  }
+  
+  img {
+    max-width: 100%;
+    max-height:100%;
+    float: left;
+  }
+
+  .image {
+    flex-shrink: 0;
+  }
+  
+  .text {
+    font-size: 15px;
+    padding-left: 20px;
+    padding-bottom: 30%;
+    float: left;
+  }
+  </style>
+  <body>
+    <div class="container">
+      <div class="text">
+        <span style="color: white; font-weight:bold; font-size:17px;">Oceania:</span> <span style="color: white; font-size:15px;">Let’s compare Oceania’s largest island to the island of Newfoundland for today.️</span>
+      </div>
+      <div class="image">
+        <img style="margin: 3px 12px 3px 0px; border:1px solid black;" src="/images/Blogs/Map_Challenge2023/10 - North America.jpeg" height="400" width="400" />
+      </div>
+    </div>
+  </body>
+</html>
+
+
+_**<span style="color: white;">DAY 17 - FLOW</span>**_
+&nbsp;
+
+<html>
+  <head>
+    <title><span style="color: white;">DAY 17 - FLOW</span></title>
+  </head>
+  <style>
+  .container {
+    display: flex;
+    align-items: left;
+    justify-content: left;
+  }
+  
+  img {
+    max-width: 100%;
+    max-height:100%;
+    float: left;
+  }
+
+  .image {
+    flex-shrink: 0;
+  }
+  
+  .text {
+    font-size: 15px;
+    padding-left: 20px;
+    padding-bottom: 30%;
+    float: left;
+  }
+  </style>
+  <body>
+    <div class="container">
+      <div class="image">
+        <img style="margin: 3px 12px 3px 0px; border:1px solid black;" src="/images/Blogs/Map_Challenge2023/9 - Hexagons.jpeg" height="400" width="400" />
+      </div>
+      <div class="text">
+        <span style="color: white; font-weight:bold; font-size:17px;">Flow:</span> <span style="color: white; font-size:15px;">An island surrounded by water inside and out. For the flows of Newfoundland, let’s map out the rivers and waterway network. Impressive water coverage across the entire island. Not spoilt fer a drop er wha?</span>
+      </div>
+    </div>
+  </body>
+</html>
+
+
+_**<span style="color: white;">DAY 18 - ATMOSPHERE</span>**_
+&nbsp;
+
+<html>
+  <head>
+    <title><span style="color: white;">DAY 18 - ATMOSPHERE</span></title>
+  </head>
+  <style>
+  .container {
+    display: flex;
+    align-items: left;
+    justify-content: left;
+  }
+  
+  img {
+    max-width: 100%;
+    max-height:100%;
+    float: left;
+  }
+
+  .image {
+    flex-shrink: 0;
+  }
+  
+  .text {
+    font-size: 15px;
+    padding-left: 20px;
+    padding-bottom: 30%;
+    float: left;
+  }
+  </style>
+  <body>
+    <div class="container">
+      <div class="text">
+        <span style="color: white; font-weight:bold; font-size:17px;">Atmosphere:</span> <span style="color: white; font-size:15px;">“Fogs rollin’ in...” Newfoundland is one of the foggiest places on earth thanks to the Grand Banks where the Labrador Current meets the Gulf Stream. Cold Current + warm Stream gives us fog as thick as pea soup.️</span>
+      </div>
+      <div class="image">
+        <img style="margin: 3px 12px 3px 0px; border:1px solid black;" src="/images/Blogs/Map_Challenge2023/10 - North America.jpeg" height="400" width="400" />
+      </div>
+    </div>
+  </body>
+</html>
+
+
+_**<span style="color: white;">DAY 19 - 5 MINUTES</span>**_
+&nbsp;
+
+<html>
+  <head>
+    <title><span style="color: white;">DAY 19 - 5 MINUTES</span></title>
+  </head>
+  <style>
+  .container {
+    display: flex;
+    align-items: left;
+    justify-content: left;
+  }
+  
+  img {
+    max-width: 100%;
+    max-height:100%;
+    float: left;
+  }
+
+  .image {
+    flex-shrink: 0;
+  }
+  
+  .text {
+    font-size: 15px;
+    padding-left: 20px;
+    padding-bottom: 30%;
+    float: left;
+  }
+  </style>
+  <body>
+    <div class="container">
+      <div class="image">
+        <img style="margin: 3px 12px 3px 0px; border:1px solid black;" src="/images/Blogs/Map_Challenge2023/9 - Hexagons.jpeg" height="400" width="400" />
+      </div>
+      <div class="text">
+        <span style="color: white; font-weight:bold; font-size:17px;">Flow:</span> <span style="color: white; font-size:15px;">In the style of a 5 minute craft, here’s my 5 min map for todays #30DayMapChallenge. You’ll never GUESS what crazy technique I’ve used to make this. Watch until the end to find out, and smash that like and subscribe button. Todays sponsor is some meal prep kit...</span>
+      </div>
+    </div>
+  </body>
+</html>
+
+
+_**<span style="color: white;">DAY 20 - OUTDOORS</span>**_
+&nbsp;
+
+<html>
+  <head>
+    <title><span style="color: white;">DAY 20 - OUTDOORS</span></title>
+  </head>
+  <style>
+  .container {
+    display: flex;
+    align-items: left;
+    justify-content: left;
+  }
+  
+  img {
+    max-width: 100%;
+    max-height:100%;
+    float: left;
+  }
+
+  .image {
+    flex-shrink: 0;
+  }
+  
+  .text {
+    font-size: 15px;
+    padding-left: 20px;
+    padding-bottom: 30%;
+    float: left;
+  }
+  </style>
+  <body>
+    <div class="container">
+      <div class="text">
+        <span style="color: white; font-weight:bold; font-size:17px;">Outdoors:</span> <span style="color: white; font-size:15px;">The East Coast trail @EastCoastTrail is one of the Avalons best assets. 336km of trails and a network of 25 different paths crossing over 30 communities. One of the best things of living in St. John’s is just popping off for a midday hike #30DayMapChallenge️</span>
+      </div>
+      <div class="image">
+        <img style="margin: 3px 12px 3px 0px; border:1px solid black;" src="/images/Blogs/Map_Challenge2023/10 - North America.jpeg" height="400" width="400" />
+      </div>
+    </div>
+  </body>
+</html>
+
+
+_**<span style="color: white;">DAY 21 - RASTER</span>**_
+&nbsp;
+
+<html>
+  <head>
+    <title><span style="color: white;">DAY 21 - RASTER</span></title>
+  </head>
+  <style>
+  .container {
+    display: flex;
+    align-items: left;
+    justify-content: left;
+  }
+  
+  img {
+    max-width: 100%;
+    max-height:100%;
+    float: left;
+  }
+
+  .image {
+    flex-shrink: 0;
+  }
+  
+  .text {
+    font-size: 15px;
+    padding-left: 20px;
+    padding-bottom: 30%;
+    float: left;
+  }
+  </style>
+  <body>
+    <div class="container">
+      <div class="image">
+        <img style="margin: 3px 12px 3px 0px; border:1px solid black;" src="/images/Blogs/Map_Challenge2023/9 - Hexagons.jpeg" height="400" width="400" />
+      </div>
+      <div class="text">
+        <span style="color: white; font-weight:bold; font-size:17px;">Raster:</span> <span style="color: white; font-size:15px;">I loves a good sea shanty & jiggs n reels from back home. Little did I know I’ve been driving over the opening line to one of my favourite songs forever. Using high res raster data, we can find the Hill from Dermot O’Reilly’s West Country Lady.</span>
+      </div>
+    </div>
+  </body>
+</html>
+
+
+_**<span style="color: white;">DAY 22 - NORTH'S NOT UP</span>**_
+&nbsp;
+
+<html>
+  <head>
+    <title><span style="color: white;">DAY 22 - NORTH'S NOT UP</span></title>
+  </head>
+  <style>
+  .container {
+    display: flex;
+    align-items: left;
+    justify-content: left;
+  }
+  
+  img {
+    max-width: 100%;
+    max-height:100%;
+    float: left;
+  }
+
+  .image {
+    flex-shrink: 0;
+  }
+  
+  .text {
+    font-size: 15px;
+    padding-left: 20px;
+    padding-bottom: 30%;
+    float: left;
+  }
+  </style>
+  <body>
+    <div class="container">
+      <div class="text">
+        <span style="color: white; font-weight:bold; font-size:17px;">North's Not Up:</span> <span style="color: white; font-size:15px;">WHOOPS! How many times have I messed up latitudes and longitudes when doing my work. Friendly reminder to always map out your spatial data, and especially if you’re doing some in-software spatial statistics.️</span>
+      </div>
+      <div class="image">
+        <img style="margin: 3px 12px 3px 0px; border:1px solid black;" src="/images/Blogs/Map_Challenge2023/10 - North America.jpeg" height="400" width="400" />
+      </div>
+    </div>
+  </body>
+</html>
+
+
+_**<span style="color: white;">DAY 23 - 3D</span>**_
+&nbsp;
+
+<html>
+  <head>
+    <title><span style="color: white;">DAY 23 - 3D</span></title>
+  </head>
+  <style>
+  .container {
+    display: flex;
+    align-items: left;
+    justify-content: left;
+  }
+  
+  img {
+    max-width: 100%;
+    max-height:100%;
+    float: left;
+  }
+
+  .image {
+    flex-shrink: 0;
+  }
+  
+  .text {
+    font-size: 15px;
+    padding-left: 20px;
+    padding-bottom: 30%;
+    float: left;
+  }
+  </style>
+  <body>
+    <div class="container">
+      <div class="image">
+        <img style="margin: 3px 12px 3px 0px; border:1px solid black;" src="/images/Blogs/Map_Challenge2023/9 - Hexagons.jpeg" height="400" width="400" />
+      </div>
+      <div class="text">
+        <span style="color: white; font-weight:bold; font-size:17px;">3D:</span> <span style="color: white; font-size:15px;">Figured it’s time to give the whole province some love, especially Labrador. Have paired up a set of Joy plots for these days after seeing the @helenmakesmaps tutorials and how many great joy plots are being shared!</span>
+      </div>
+    </div>
+  </body>
+</html>
+
+
+_**<span style="color: white;">DAY 24 - BLACK AND WHITE</span>**_
+&nbsp;
+
+<html>
+  <head>
+    <title><span style="color: white;">DAY 24 - BLACK AND WHITE</span></title>
+  </head>
+  <style>
+  .container {
+    display: flex;
+    align-items: left;
+    justify-content: left;
+  }
+  
+  img {
+    max-width: 100%;
+    max-height:100%;
+    float: left;
+  }
+
+  .image {
+    flex-shrink: 0;
+  }
+  
+  .text {
+    font-size: 15px;
+    padding-left: 20px;
+    padding-bottom: 30%;
+    float: left;
+  }
+  </style>
+  <body>
+    <div class="container">
+      <div class="text">
+        <span style="color: white; font-weight:bold; font-size:17px;">Black and White:</span> <span style="color: white; font-size:15px;">Figured it’s time to give the whole province some love, especially Labrador. Have paired up a set of Joy plots for these days after seeing the @helenmakesmaps tutorials and how many great joy plots are being shared!.️</span>
+      </div>
+      <div class="image">
+        <img style="margin: 3px 12px 3px 0px; border:1px solid black;" src="/images/Blogs/Map_Challenge2023/10 - North America.jpeg" height="400" width="400" />
+      </div>
+    </div>
+  </body>
+</html>
+
+
+_**<span style="color: white;">DAY 25 - ANTARTICA</span>**_
+&nbsp;
+
+<html>
+  <head>
+    <title><span style="color: white;">DAY 25 - ANTARCTICA</span></title>
+  </head>
+  <style>
+  .container {
+    display: flex;
+    align-items: left;
+    justify-content: left;
+  }
+  
+  img {
+    max-width: 100%;
+    max-height:100%;
+    float: left;
+  }
+
+  .image {
+    flex-shrink: 0;
+  }
+  
+  .text {
+    font-size: 15px;
+    padding-left: 20px;
+    padding-bottom: 30%;
+    float: left;
+  }
+  </style>
+  <body>
+    <div class="container">
+      <div class="image">
+        <img style="margin: 3px 12px 3px 0px; border:1px solid black;" src="/images/Blogs/Map_Challenge2023/9 - Hexagons.jpeg" height="400" width="400" />
+      </div>
+      <div class="text">
+        <span style="color: white; font-weight:bold; font-size:17px;">Antarctica:</span> <span style="color: white; font-size:15px;">Pretty bog standard map of Antarctica and compass showing all directions being north… not much more to todays #30DayMapChallenge! Data from the @BAS_News Antarctic Digital Database.</span>
+      </div>
+    </div>
+  </body>
+</html>
+
+
+_**<span style="color: white;">DAY 26 - MINIMAL</span>**_
+&nbsp;
+
+<html>
+  <head>
+    <title><span style="color: white;">DAY 26 - MINIMAL</span></title>
+  </head>
+  <style>
+  .container {
+    display: flex;
+    align-items: left;
+    justify-content: left;
+  }
+  
+  img {
+    max-width: 100%;
+    max-height:100%;
+    float: left;
+  }
+
+  .image {
+    flex-shrink: 0;
+  }
+  
+  .text {
+    font-size: 15px;
+    padding-left: 20px;
+    padding-bottom: 30%;
+    float: left;
+  }
+  </style>
+  <body>
+    <div class="container">
+      <div class="text">
+        <span style="color: white; font-weight:bold; font-size:17px;">Minimal:</span> <span style="color: white; font-size:15px;">....️</span>
+      </div>
+      <div class="image">
+        <img style="margin: 3px 12px 3px 0px; border:1px solid black;" src="/images/Blogs/Map_Challenge2023/10 - North America.jpeg" height="400" width="400" />
+      </div>
+    </div>
+  </body>
+</html>
+
+
+_**<span style="color: white;">DAY 27 - DOT DENSITY</span>**_
+&nbsp;
+
+<html>
+  <head>
+    <title><span style="color: white;">DAY 27 - DOT DENSITY</span></title>
+  </head>
+  <style>
+  .container {
+    display: flex;
+    align-items: left;
+    justify-content: left;
+  }
+  
+  img {
+    max-width: 100%;
+    max-height:100%;
+    float: left;
+  }
+
+  .image {
+    flex-shrink: 0;
+  }
+  
+  .text {
+    font-size: 15px;
+    padding-left: 20px;
+    padding-bottom: 30%;
+    float: left;
+  }
+  </style>
+  <body>
+    <div class="container">
+      <div class="image">
+        <img style="margin: 3px 12px 3px 0px; border:1px solid black;" src="/images/Blogs/Map_Challenge2023/9 - Hexagons.jpeg" height="400" width="400" />
+      </div>
+      <div class="text">
+        <span style="color: white; font-weight:bold; font-size:17px;">Dot Density:</span> <span style="color: white; font-size:15px;">These x-y dots were just a byproduct from generating the map on Day 24, but they looked cool. Equal 5 m spaced dots across the province coloured in by respective elevation.</span>
+      </div>
+    </div>
+  </body>
+</html>
+
+
+_**<span style="color: white;">DAY 28 - CHART</span>**_
+&nbsp;
+
+<html>
+  <head>
+    <title><span style="color: white;">DAY 28 - CHART</span></title>
+  </head>
+  <style>
+  .container {
+    display: flex;
+    align-items: left;
+    justify-content: left;
+  }
+  
+  img {
+    max-width: 100%;
+    max-height:100%;
+    float: left;
+  }
+
+  .image {
+    flex-shrink: 0;
+  }
+  
+  .text {
+    font-size: 15px;
+    padding-left: 20px;
+    padding-bottom: 30%;
+    float: left;
+  }
+  </style>
+  <body>
+    <div class="container">
+      <div class="text">
+        <span style="color: white; font-weight:bold; font-size:17px;">Minimal:</span> <span style="color: white; font-size:15px;">Doubling these up since they look great together and fit the homework assignment each day. Some @qgis pop. density spike charts *a la* @undertheraedar  to round off #30DayMapChallenge These were much easier to do than expected w. help from the tutorial️</span>
+      </div>
+      <div class="image">
+        <img style="margin: 3px 12px 3px 0px; border:1px solid black;" src="/images/Blogs/Map_Challenge2023/10 - North America.jpeg" height="400" width="400" />
+      </div>
+    </div>
+  </body>
+</html>
+
+
+_**<span style="color: white;">DAY 29 - POPULATION</span>**_
+&nbsp;
+
+<html>
+  <head>
+    <title><span style="color: white;">DAY 29 - POPULATION</span></title>
+  </head>
+  <style>
+  .container {
+    display: flex;
+    align-items: left;
+    justify-content: left;
+  }
+  
+  img {
+    max-width: 100%;
+    max-height:100%;
+    float: left;
+  }
+
+  .image {
+    flex-shrink: 0;
+  }
+  
+  .text {
+    font-size: 15px;
+    padding-left: 20px;
+    padding-bottom: 30%;
+    float: left;
+  }
+  </style>
+  <body>
+    <div class="container">
+      <div class="image">
+        <img style="margin: 3px 12px 3px 0px; border:1px solid black;" src="/images/Blogs/Map_Challenge2023/9 - Hexagons.jpeg" height="400" width="400" />
+      </div>
+      <div class="text">
+        <span style="color: white; font-weight:bold; font-size:17px;">Dot Density:</span> <span style="color: white; font-size:15px;">Doubling these up since they look great together and fit the homework assignment each day. Some @qgis pop. density spike charts *a la* @undertheraedar  to round off #30DayMapChallenge These were much easier to do than expected w. help from the tutorial.</span>
+      </div>
+    </div>
+  </body>
+</html>
+
+
+_**<span style="color: white;">DAY 30 - MY FAVOURITE</span>**_
+&nbsp;
+
+<html>
+  <head>
+    <title><span style="color: white;">DAY 30 - MY FAVOURITE</span></title>
+  </head>
+  <style>
+  .container {
+    display: flex;
+    align-items: left;
+    justify-content: left;
+  }
+  
+  img {
+    max-width: 100%;
+    max-height:100%;
+    float: left;
+  }
+
+  .image {
+    flex-shrink: 0;
+  }
+  
+  .text {
+    font-size: 15px;
+    padding-left: 20px;
+    padding-bottom: 30%;
+    float: left;
+  }
+  </style>
+  <body>
+    <div class="container">
+      <div class="text">
+        <span style="color: white; font-weight:bold; font-size:17px;">Minimal:</span> <span style="color: white; font-size:15px;">And we (finally…) come to the end of #30DayMapChallenge Really the maps today come from @Nintendo but they’re my favourite around. The maps of Hyrule have evolved a bit since 1992, but still one of the most significant elements of @ZeldaOfficialJP️.</span>
+      </div>
+      <div class="image">
+        <img style="margin: 3px 12px 3px 0px; border:1px solid black;" src="/images/Blogs/Map_Challenge2023/10 - North America.jpeg" height="400" width="400" />
+      </div>
+    </div>
+  </body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 &nbsp;
 
 

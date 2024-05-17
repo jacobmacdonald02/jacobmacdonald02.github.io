@@ -2,37 +2,34 @@
 title: "BADMap: A research project on graphic design and mapping"
 collection: teaching
 excerpt: ''
-type: "Research participation"
+type: "CALL FOR PARTICIPANTS:"
 permalink: /teaching/2024-BADMap-research-trial
-venue: "University of Sheffield, Dept. Urban Studies and Planning"
+venue: "Online study for: U. Sheffield Students"
 date: 2024-05-01
 paperurl: 
 github: 
 location: "Sheffield, UK"
 ---
 
-## <span style="color:white">Module Instructor</span>
-Fall 2022
+## <span style="color:white">WANT TO TAKE PART IN AN ONLINE RESEARCH STUDY?</span>
+
+I'm looking for University of Sheffield students (any level; any department) to fill out a short survey on graphic design and cartography. This can be done online, and should take about 20 minutes. 
 
 
-### <span style="color:white">Module Aims</span>
-This module aims to develop your understanding and skills in undertaking research in urban contexts. These key skills will be important in planning and undertaking your dissertation at level 3. You will develop your research skills by focusing on a ‘real life’ problem or challenge in a particular place. The problem is flood risk management (FRM), the place is Hull in Yorkshire. The module will be supported by a field trip to Hull 28-30nd March and two days (1-2nd April) further activity in either Rotterdam or Sheffield.  
+### <span style="color:white">About the trial</span>
 
-Flood management is a real and present threat in many countries and urban areas and hence requires active planning. Flood management also influences water supply and environmental protection more broadly. Flood risk is unequal, with the more deprived usually at greater risk and also more vulnerable. Given a situation of accelerating global warming, flood management is a topic with which planners in all countries will have to grapple for years to come. 
+By clicking the link below, you will be taken to a randomly allocated online trial which explores graphic design choices, cartography and knowledge retention. 
+ 
+You will be guided through a series of Google Forms where you will first look at a map, and then be asked a series of questions about the map. 
+ 
+Once you start answering questions about the map, do not return to look at the map (or take any notes about it beforehand, etc.).
 
+You should conduct this survey on a computer. It would be useful in some cases to be able to zoom in a bit more on the map, which is difficult on a mobile device. 
 
-### <span style="color:white">Learning Outcomes</span>
-It is expected that, by the end of the module, students will be able to demonstrate:
-- enhanced abilities in research related to urban design, planning policy and social research methods in a European context
-- enhanced understanding of the importance of local context in influencing the outcomes of planning policy within Europe
-- enhanced development of skills in research reporting.
-
-
-### <span style="color:white">Skills Development</span>
-The module is badged as helping to develop your skills in three areas:
-- Research Skills you will identify data and research literature on the topic 
-- Numeracy & Digital Literacy Skills you will gain skills in data collection, analysis and interpretation 
-- Communication Skills you will prepare a clear and coherent research proposal. 
+You will be asked a pseudo-anonymous ID at each stage. This will let us connect the answers together while maintaining anonymity. Please come up with a random <WORD><NUMBER> combination (e.g. cat09; train329). This can be anything unique BUT PLEASE REMEMBER IT AND ENTER IT CONSISTENTLY FOR EACH ROUND OF MAPS YOU ARE LOOKING AT.
 
 
-A field trip -- see blog post 
+[https://tinyurl.com/33f2wkw6](https://tinyurl.com/33f2wkw6){:target="_blank"}
+
+
+Thanks for your support!

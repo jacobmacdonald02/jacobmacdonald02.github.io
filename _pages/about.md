@@ -14,7 +14,7 @@ I am currently a Lecturer in GIS and Spatial Analysis with the University of She
 
 My research focuses on urban data, spatial statistics and in particular leveraging big, novel data sources for studies of urban environmental and economic processes. I'm interested especially in the interplay and spill-overs of urban amenities, the built environment and neighbourhood dynamics. I'm a broad champion of open data/ software, open science, and making use of secondary, geographic, data sources.
 
-I am currently the Director of Advanced Data Analytics for the White Rose Doctoral Training Programme. From 2023-2026, I was the Digital Media and Regional Graphics Editor for [Regional Studies, Regional Science](https://www.tandfonline.com/journals/rsrs20?gclid=Cj0KCQjwxIOXBhCrARIsAL1QFCb9Ghgwd02oU4uTZeSq3HqF-Wpt9p6p5UBvnaEgZh5PI7sKMFoq8mMaAuzTEALw_wcB){:target="_blank"}, a leading premier open access journal for research of regional studies in geography, economics, planning, and political science. 
+I am currently the Director of Advanced Data Analytics for the [White Rose Doctoral Training Programme](https://wrdtp.ac.uk/). From 2023-2026, I was the Digital Media and Regional Graphics Editor for [Regional Studies, Regional Science](https://www.tandfonline.com/journals/rsrs20?gclid=Cj0KCQjwxIOXBhCrARIsAL1QFCb9Ghgwd02oU4uTZeSq3HqF-Wpt9p6p5UBvnaEgZh5PI7sKMFoq8mMaAuzTEALw_wcB){:target="_blank"}, a leading premier open access journal for research of regional studies in geography, economics, planning, and political science. 
 
 
 
@@ -30,8 +30,9 @@ Nova School of Business and Economics
 Nova School of Business and Economics
 - **BSc (Hons) in Economics and Statistics** (2012)<br>
 Memorial University of Newfoundland and Labrador
-
-
+<br>
+- **PG Certificate in Teaching for Learning in Higher Education in Economics and Finance** (2024)<br>
+University of Sheffield
 <br/>
 
 # <span style="color: white;">**Contact:**</span>

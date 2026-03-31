@@ -1,0 +1,906 @@
+
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+
+<meta charset="utf-8">
+
+
+
+<!-- begin SEO -->
+
+
+
+
+
+
+
+
+
+<title>30 Day Map Challenge - November 2023 - Jacob Macdonald</title>
+
+
+
+
+
+
+
+<meta property="og:locale" content="en-US">
+<meta property="og:site_name" content="Jacob Macdonald">
+<meta property="og:title" content="30 Day Map Challenge - November 2023">
+
+
+  <link rel="canonical" href="http://localhost:4000/posts/2023/11/map_challenge/">
+  <meta property="og:url" content="http://localhost:4000/posts/2023/11/map_challenge/">
+
+
+
+  <meta property="og:description" content="All maps are made with open source software and open data. Data cleaning and wrangling done in R with visuals produced in QGIS.">
+
+
+
+
+
+  
+
+  
+
+
+
+
+
+  <meta property="og:type" content="article">
+  <meta property="article:published_time" content="2023-11-01T00:00:00-07:00">
+
+
+
+
+
+
+
+
+  <script type="application/ld+json">
+    {
+      "@context" : "http://schema.org",
+      "@type" : "Person",
+      "name" : "Jacob L. Macdonald",
+      "url" : "http://localhost:4000",
+      "sameAs" : null
+    }
+  </script>
+
+
+
+
+
+
+<!-- end SEO -->
+
+
+<link href="http://localhost:4000/feed.xml" type="application/atom+xml" rel="alternate" title="Jacob Macdonald Feed">
+
+<!-- http://t.co/dKP3o1e -->
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="http://localhost:4000/assets/css/main.css">
+
+<meta http-equiv="cleartype" content="on">
+    
+
+<!-- start custom head snippets -->
+
+<link rel="apple-touch-icon" sizes="57x57" href="http://localhost:4000/images/apple-touch-icon-57x57.png?v=M44lzPylqQ">
+<link rel="apple-touch-icon" sizes="60x60" href="http://localhost:4000/images/apple-touch-icon-60x60.png?v=M44lzPylqQ">
+<link rel="apple-touch-icon" sizes="72x72" href="http://localhost:4000/images/apple-touch-icon-72x72.png?v=M44lzPylqQ">
+<link rel="apple-touch-icon" sizes="76x76" href="http://localhost:4000/images/apple-touch-icon-76x76.png?v=M44lzPylqQ">
+<link rel="apple-touch-icon" sizes="114x114" href="http://localhost:4000/images/apple-touch-icon-114x114.png?v=M44lzPylqQ">
+<link rel="apple-touch-icon" sizes="120x120" href="http://localhost:4000/images/apple-touch-icon-120x120.png?v=M44lzPylqQ">
+<link rel="apple-touch-icon" sizes="144x144" href="http://localhost:4000/images/apple-touch-icon-144x144.png?v=M44lzPylqQ">
+<link rel="apple-touch-icon" sizes="152x152" href="http://localhost:4000/images/apple-touch-icon-152x152.png?v=M44lzPylqQ">
+<link rel="apple-touch-icon" sizes="180x180" href="http://localhost:4000/images/apple-touch-icon-180x180.png?v=M44lzPylqQ">
+<link rel="icon" type="image/png" href="http://localhost:4000/images/favicon-32x32.png?v=M44lzPylqQ" sizes="32x32">
+<link rel="icon" type="image/png" href="http://localhost:4000/images/android-chrome-192x192.png?v=M44lzPylqQ" sizes="192x192">
+<link rel="icon" type="image/png" href="http://localhost:4000/images/favicon-96x96.png?v=M44lzPylqQ" sizes="96x96">
+<link rel="icon" type="image/png" href="http://localhost:4000/images/favicon-16x16.png?v=M44lzPylqQ" sizes="16x16">
+<link rel="manifest" href="http://localhost:4000/images/manifest.json?v=M44lzPylqQ">
+<link rel="mask-icon" href="http://localhost:4000/images/safari-pinned-tab.svg?v=M44lzPylqQ" color="#000000">
+<link rel="shortcut icon" href="/images/favicon.ico?v=M44lzPylqQ">
+<meta name="msapplication-TileColor" content="#000000">
+<meta name="msapplication-TileImage" content="http://localhost:4000/images/mstile-144x144.png?v=M44lzPylqQ">
+<meta name="msapplication-config" content="http://localhost:4000/images/browserconfig.xml?v=M44lzPylqQ">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="http://localhost:4000/assets/css/academicons.css"/>
+
+<script type="text/x-mathjax-config"> MathJax.Hub.Config({ TeX: { equationNumbers: { autoNumber: "all" } } }); </script>
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+      processEscapes: true
+    }
+  });
+</script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/latest.js?config=TeX-MML-AM_CHTML' async></script>
+
+<!-- end custom head snippets -->
+
+  </head>
+
+  <body>
+
+    <!--[if lt IE 9]>
+<div class="notice--danger align-center" style="margin: 0;">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</div>
+<![endif]-->
+    
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        <button><div class="navicon"></div></button>
+        <ul class="visible-links">
+          <li class="masthead__menu-item masthead__menu-item--lg"><a href="http://localhost:4000/">Jacob Macdonald</a></li>
+          
+            
+            <li class="masthead__menu-item"><a href="http://localhost:4000/publications/">Publications & Reports</a></li>
+          
+            
+            <li class="masthead__menu-item"><a href="http://localhost:4000/talks/">Presentations</a></li>
+          
+            
+            <li class="masthead__menu-item"><a href="http://localhost:4000/teaching/">Teaching</a></li>
+          
+            
+            <li class="masthead__menu-item"><a href="http://localhost:4000/writings/">Writings</a></li>
+          
+            
+            <li class="masthead__menu-item"><a href="http://localhost:4000/cv/">CV</a></li>
+          
+        </ul>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+    
+
+
+
+
+
+<div id="main" role="main">
+  
+
+
+  <div class="sidebar sticky">
+  
+
+
+
+<div itemscope itemtype="http://schema.org/Person">
+
+  <div class="author__avatar">
+    
+    	<img src="http://localhost:4000/images/profile.png" class="author__avatar" alt="Jacob L. Macdonald">
+    
+  </div>
+
+  <div class="author__content">
+    <h3 class="author__name">Jacob L. Macdonald</h3>
+    <p class="author__bio">Lecturer in GIS & Spatial Analysis</p>
+  </div>
+
+  <div class="author__urls-wrapper">
+    <button class="btn btn--inverse">Follow</button>
+    <ul class="author__urls social-icons">
+      
+        <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> Sheffield, UK</li>
+      
+      
+      
+      
+        <li><a href="mailto:j.macdonald@sheffield.ac.uk"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> Email</a></li>
+      
+      
+       
+      
+        <li><a href="https://twitter.com/@jacobmac02" target="_blank"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
+      
+      
+      
+      
+        <li><a href="https://www.linkedin.com/in/https://www.linkedin.com/in/jacobmacdonald02/" target="_blank"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i> LinkedIn</a></li>
+      
+      
+      
+      
+        <li><a href="https://mastodonapp.uk/@jacobmac02" target="_blank"><i class="fab fa-fw fa-mastodon" aria-hidden="true"></i> Mastodon</a></li>
+      
+      
+      
+      
+        <li><a href="https://github.com/https://github.com/jacobmacdonald02" target="_blank"><i class="fab fa-fw fa-github" aria-hidden="true"></i> Github</a></li>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+        <li><a href="https://scholar.google.com/citations?user=6kI4wvYAAAAJ&hl=en&oi=ao" target="_blank"><i class="fas fa-fw fa-graduation-cap"></i> Google Scholar</a></li>
+      
+      
+      
+        <li><a href="https://orcid.org/0000-0002-3940-4876" target="_blank"><i class="ai ai-orcid-square ai-fw"></i> ORCID</a></li>
+      
+      
+      
+    </ul>
+  </div>
+</div>
+
+  
+  </div>
+
+
+  <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
+    <meta itemprop="headline" content="30 Day Map Challenge - November 2023">
+    <meta itemprop="description" content="All maps are made with open source software and open data. Data cleaning and wrangling done in R with visuals produced in QGIS.">
+    <meta itemprop="datePublished" content="November 01, 2023">
+    
+
+    <div class="page__inner-wrap">
+      
+        <header>
+          <FONT COLOR="#f8f8f8"><h1 class="page__title" itemprop="headline">30 Day Map Challenge - November 2023
+</h1></FONT>
+          
+            <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> 
+
+
+  
+	  5 minute read
+	
+</p>
+          
+        
+        
+        
+          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Published:</strong> <time datetime="2023-11-01T00:00:00-07:00">November 01, 2023</time></p>
+        
+        
+
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    
+        </header>
+      
+
+      <section class="page__content" itemprop="text">
+        <p><span style="color: white;">All maps are made with open source software and open data. Data cleaning and wrangling done in R with visuals produced in QGIS.</span></p>
+
+<p><em><strong><span style="color: white;">DAY 1 - POINTS</span></strong></em></p>
+
+<html>
+  <head>
+    <title><span style="color: white;">DAY 1 - POINTS</span></title>
+  </head>
+  <style>
+  .container {
+    display: flex;
+    align-items: left;
+    justify-content: left;
+  }
+  
+  img {
+    max-width: 100%;
+    max-height:100%;
+    float: left;
+  }
+  
+  .image {
+    flex-shrink: 0;
+  }
+  
+  .text {
+    font-size: 15px;
+    padding-left: 20px;
+    padding-bottom: 30%;
+    float: left;
+  }
+  </style>
+  <body>
+    <div class="container">
+      <div class="image">
+        <img style="margin: 3px 12px 3px 0px; border:1px solid black;" src="/images/Blogs/Map_Challenge2023/1 - Points.jpeg" height="400" width="400" />
+      </div>
+      <div class="text">
+        <span style="color: white; font-weight:bold; font-size:17px;">Points:</span> <span style="color: white; font-size:15px;">Here, we have a map of all populated places on the island of Newfoundland which have "Point" in their name. While not an inhabited settlement, and not shown here, by far the most famous 'Point' is likely to be <a href="https://whc.unesco.org/en/list/1497/" target="_blank">Mistaken Point</a> (Furthest Cape to the South-East). Here, for many years, sailors were often fatally <i>mistaken</i> in their navigation due to weather and visibility. Thinking they had made it to the inhabited and navigable Cape Race, they would turn northwards and straight into the fog-masked cliffs. Mistaken Point is home to the worlds oldest fossils of complex organisms and about 600 km away from the Titanic's final resting place, being the receiver of the distress call.</span>
+      </div>
+    </div>
+  </body>
+</html>
+
+<p><em><strong><span style="color: white;">DAY 2 - LINES</span></strong></em>
+ </p>
+
+<html>
+  <head>
+    <title><span style="color: white;">DAY 2 - LINES</span></title>
+  </head>
+  <style>
+  .container {
+    display: flex;
+    align-items: left;
+    justify-content: left;
+  }
+  
+  img {
+    max-width: 100%;
+    max-height:100%;
+    float: left;
+  }
+
+  .image {
+    flex-shrink: 0;
+  }
+  
+  .text {
+    font-size: 15px;
+    padding-left: 20px;
+    padding-bottom: 30%;
+    float: left;
+  }
+  </style>
+  <body>
+    <div class="container">
+      <div class="text">
+        <span style="color: white; font-weight:bold; font-size:17px;">Lines:</span> <span style="color: white; font-size:15px;">The Trans-Canada Highway is one of the lifelines of the country, linking the east and west coast across approx. 7,500 km. Work on the route started around 1950, with the main road spanning all ten provinces and 905 km in Newfoundland itself. Probably the most well known sentiment many Canadians have with the TCH relates to Terry Fox's Marathon of Hope. In April 1980, he first dipped his prosthetic leg off the St. John's coast at Mile 0 and ran his way across Canada, changing the face of Cancer research and lives everywhere.</span>
+      </div>
+      <div class="image">
+        <img style="margin: 3px 12px 3px 0px; border:1px solid black;" src="/images/Blogs/Map_Challenge2023/2 - Lines.jpeg" height="400" width="400" />
+      </div>
+    </div>
+  </body>
+</html>
+
+<p><em><strong><span style="color: white;">DAY 3 - POLYGONS</span></strong></em>
+ </p>
+
+<html>
+  <head>
+    <title><span style="color: white;">DAY 3 - POLYGONS</span></title>
+  </head>
+  <style>
+  .container {
+    display: flex;
+    align-items: left;
+    justify-content: left;
+  }
+  
+  img {
+    max-width: 100%;
+    max-height:100%;
+    float: left;
+  }
+
+  .image {
+    flex-shrink: 0;
+  }
+  
+  .text {
+    font-size: 15px;
+    padding-left: 20px;
+    padding-bottom: 30%;
+    float: left;
+  }
+  </style>
+  <body>
+    <div class="container">
+      <div class="image">
+        <img style="margin: 3px 12px 3px 0px; border:1px solid black;" src="/images/Blogs/Map_Challenge2023/3 - Polygons.jpeg" height="400" width="400" />
+      </div>
+      <div class="text">
+        <span style="color: white; font-weight:bold; font-size:17px;">Polygons:</span> <span style="color: white; font-size:15px;">The ever important Moose Management Areas of Newfoundland. Originally not native to the island, <a href="https://heritagenl.ca/discover/provincial-historic-commemorations-program-designations/introduction-of-moose-to-the-island-of-newfoundland/" target="_blank">four moose were brought to Newfoundland in 1904</a> and they’ve since exploded on the scene with over 120,000 in number now. They can be a bit daft, wandering onto the roads and into cities to eat what they can find and lick the road salt in the winter. Newfoundland has some of the highest density of moose around, and vehicle collisions are a major issue in the province with around 600 accidents a year, often fatal. Lots of resources and interventions go into moose management as seen by the <a href="https://www.gov.nl.ca/ffa/files/22282-Moose-Management-Report-July-12.pdf" target="_blank">Gov. NL 2022-26 Moose Management Plan</a>.</span>
+      </div>
+    </div>
+  </body>
+</html>
+
+<p><em><strong><span style="color: white;">DAY 4 - BAD MAP</span></strong></em>
+ </p>
+
+<html>
+  <head>
+    <title><span style="color: white;">DAY 4 - BAD MAP</span></title>
+  </head>
+  <style>
+  .container {
+    display: flex;
+    align-items: left;
+    justify-content: left;
+  }
+  
+  img {
+    max-width: 100%;
+    max-height:100%;
+    float: left;
+  }
+
+  .image {
+    flex-shrink: 0;
+  }
+  
+  .text {
+    font-size: 15px;
+    padding-left: 20px;
+    padding-bottom: 30%;
+    float: left;
+  }
+  </style>
+  <body>
+    <div class="container">
+      <div class="text">
+        <span style="color: white; font-weight:bold; font-size:17px;">Bad Map:</span> <span style="color: white; font-size:15px;">Bad Map. Phoning today in a bit, but hear me out… here’s a wonderful map - really lots of great information. But unfortunately I’ve made some very BAD colour design choices. Hard to see much when your map fill and borders match the background colour! Goes to show the importance of colour, contrast and design decisions for knowledge exchange and teaching.</span>
+      </div>
+      <div class="image">
+        <img style="margin: 3px 12px 3px 0px; border:1px solid black;" src="/images/Blogs/Map_Challenge2023/4 - Bad Map.jpeg" height="400" width="400" />
+      </div>
+    </div>
+  </body>
+</html>
+
+<p><em><strong><span style="color: white;">DAY 5 - ANALOG MAP</span></strong></em>
+ </p>
+
+<html>
+  <head>
+    <title><span style="color: white;">DAY 5 - ANALOG MAP</span></title>
+  </head>
+  <style>
+  .container {
+    display: flex;
+    align-items: left;
+    justify-content: left;
+  }
+  
+  img {
+    max-width: 100%;
+    max-height:100%;
+    float: left;
+  }
+
+  .image {
+    flex-shrink: 0;
+  }
+  
+  .text {
+    font-size: 15px;
+    padding-left: 20px;
+    padding-bottom: 30%;
+    float: left;
+  }
+  </style>
+  <body>
+    <div class="container">
+      <div class="image">
+        <img style="margin: 3px 12px 3px 0px; border:1px solid black;" src="/images/Blogs/Map_Challenge2023/5 - Non Digital.jpeg" height="400" width="400" />
+      </div>
+      <div class="text">
+        <span style="color: white; font-weight:bold; font-size:17px;">Analog:</span> <span style="color: white; font-size:15px;">Here we have Newfoundland etched in stone at the Padrão dos Descobrimentos in Lisbon, Portugal. This massive *mappa mundi* is directly in front of the monument dedicated to the 15th/16th-c. Golden Age of Discoveries. The stone monument was erected in 1960 with the square out front and map given by the South African Government. The whole complex features rare lioz (royal) Lisbon limestone, and rose-tinted stone from Leiria.</span>
+      </div>
+    </div>
+  </body>
+</html>
+
+<p><em><strong><span style="color: white;">DAY 6 - ASIA</span></strong></em>
+ </p>
+
+<html>
+  <head>
+    <title><span style="color: white;">DAY 6 - ASIA</span></title>
+  </head>
+  <style>
+  .container {
+    display: flex;
+    align-items: left;
+    justify-content: left;
+  }
+  
+  img {
+    max-width: 100%;
+    max-height:100%;
+    float: left;
+  }
+
+  .image {
+    flex-shrink: 0;
+  }
+  
+  .text {
+    font-size: 15px;
+    padding-left: 20px;
+    padding-bottom: 30%;
+    float: left;
+  }
+  </style>
+  <body>
+    <div class="container">
+      <div class="text">
+        <span style="color: white; font-weight:bold; font-size:17px;">Asia:</span> <span style="color: white; font-size:15px;">Ten years ago I took a field trip to China during my masters at Nova School of Business and Econ. hosted at Sun Yat-sen Uni. I originally wanted to be a labour economist until I saw the scale of urban development going on here.</span>
+      </div>
+      <div class="image">
+        <img style="margin: 3px 12px 3px 0px; border:1px solid black;" src="/images/Blogs/Map_Challenge2023/6 - Asia.jpeg" height="400" width="400" />
+      </div>
+    </div>
+  </body>
+</html>
+
+<p><em><strong><span style="color: white;">DAY 7 - NAVIGATION</span></strong></em>
+ </p>
+
+<html>
+  <head>
+    <title><span style="color: white;">DAY 7 - NAVIGATION&lt;</span></title>
+  </head>
+  <style>
+  .container {
+    display: flex;
+    align-items: left;
+    justify-content: left;
+  }
+  
+  img {
+    max-width: 100%;
+    max-height:100%;
+    float: left;
+  }
+
+  .image {
+    flex-shrink: 0;
+  }
+  
+  .text {
+    font-size: 15px;
+    padding-left: 20px;
+    padding-bottom: 30%;
+    float: left;
+  }
+  </style>
+  <body>
+    <div class="container">
+      <div class="image">
+        <img style="margin: 3px 12px 3px 0px; border:1px solid black;" src="/images/Blogs/Map_Challenge2023/7 - Navigation.jpeg" height="400" width="400" />
+      </div>
+      <div class="text">
+        <span style="color: white; font-weight:bold; font-size:17px;">Navigation:</span> <span style="color: white; font-size:15px;">Lighthouses have dotted our coastline since 1813 with the first lighthouse guiding ships from Fort Amherst through The Narrows.  As a historic maritime economy, these built structures were crucial. 44 lighthouses were built from 1832-1890. Today, many of these lighthouses are historic museums and built heritage standing tall on cliffs and capes. While often not functioning in the maritime sense, they still provide easy navigation and bearings for seafaring folk and landlubbers alike.</span>
+      </div>
+    </div>
+  </body>
+</html>
+
+<p><em><strong><span style="color: white;">DAY 8 - AFRICA</span></strong></em>
+ </p>
+
+<html>
+  <head>
+    <title><span style="color: white;">DAY 8 - AFRICA</span></title>
+  </head>
+  <style>
+  .container {
+    display: flex;
+    align-items: left;
+    justify-content: left;
+  }
+  
+  img {
+    max-width: 100%;
+    max-height:100%;
+    float: left;
+  }
+
+  .image {
+    flex-shrink: 0;
+  }
+  
+  .text {
+    font-size: 15px;
+    padding-left: 20px;
+    padding-bottom: 30%;
+    float: left;
+  }
+  </style>
+  <body>
+    <div class="container">
+      <div class="text">
+        <span style="color: white; font-weight:bold; font-size:17px;">Africa:</span> <span style="color: white; font-size:15px;">This year I was so lucky to start a great project on flood and water management in Quelimane, Mozambique. Lots of participatory GIS and community-focused interventions. Here we have the elevation and watercourses of the Zambezia province for the 30 day map challenge. This area is particularly vulnerable to flooding and effects of climate change. Our project is looking at feasible community interventions locals can realistically adopt to mitigate against hazards. Project ongoing with @sleeffers, @patscaetano and @novafrica!</span>
+      </div>
+      <div class="image">
+        <img style="margin: 3px 12px 3px 0px; border:1px solid black;" src="/images/Blogs/Map_Challenge2023/8 - Africa.jpeg" height="400" width="400" />
+      </div>
+    </div>
+  </body>
+</html>
+
+<p><em><strong><span style="color: white;">DAY 9 - HEXAGONS</span></strong></em>
+ </p>
+
+<html>
+  <head>
+    <title><span style="color: white;">DAY 9 - HEXAGONS</span></title>
+  </head>
+  <style>
+  .container {
+    display: flex;
+    align-items: left;
+    justify-content: left;
+  }
+  
+  img {
+    max-width: 100%;
+    max-height:100%;
+    float: left;
+  }
+
+  .image {
+    flex-shrink: 0;
+  }
+  
+  .text {
+    font-size: 15px;
+    padding-left: 20px;
+    padding-bottom: 30%;
+    float: left;
+  }
+  </style>
+  <body>
+    <div class="container">
+      <div class="image">
+        <img style="margin: 3px 12px 3px 0px; border:1px solid black;" src="/images/Blogs/Map_Challenge2023/9 - Hexagons.jpeg" height="400" width="400" />
+      </div>
+      <div class="text">
+        <span style="color: white; font-weight:bold; font-size:17px;">Hexagons:</span> <span style="color: white; font-size:15px;">Taking this one into the office today. Of course with hexagons, the first thing I now think of is our (un-sarcastically) beautiful brutalist hexagonal office building - home to the Department of Urban Studies and Planning and the Department of Geography. Built around 1970-71, the building is a series of interlocking hexagons - we knew hex spatial geometries would be cool for GIS long ago!</span>
+      </div>
+    </div>
+  </body>
+</html>
+
+<p> </p>
+
+<p><em><strong>Jacob L. Macdonald</strong></em></p>
+
+      </section>
+
+      <footer class="page__meta">
+        
+        
+
+
+  
+
+
+
+
+  
+  
+  
+
+  <p class="page__taxonomy">
+    <strong><i class="fa fa-fw fa-tags" aria-hidden="true"></i> Tags: </strong>
+    <span itemprop="keywords">
+    
+      
+      
+      <a href="http://localhost:4000/tags/#mapping" class="page__taxonomy-item" rel="tag">Mapping</a>
+    
+    </span>
+  </p>
+
+
+
+
+      </footer>
+
+      
+
+
+  <nav class="pagination">
+    
+      <a href="http://localhost:4000/posts/2023/07/doctoral_times/" class="pagination--pager" title="University of Sheffield Doctoral Times
+">Previous</a>
+    
+    
+      <a href="#" class="pagination--pager disabled">Next</a>
+    
+  </nav>
+
+    </div>
+
+    
+  </article>
+
+  
+  
+    <div class="page__related">
+      
+        <h4 class="page__related-title">You May Also Enjoy</h4>
+      
+      <div class="grid__wrapper">
+        
+          
+
+
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    
+
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/posts/2023/07/doctoral_times/" rel="permalink">University of Sheffield Doctoral Times
+</a>
+      
+    </h2>
+    
+
+    
+      <p class="page__date"><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> <time datetime="2023-07-01T00:00:00-07:00">July 01, 2023</time></p>
+    
+
+    
+  </article>
+</div>
+
+        
+          
+
+
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    
+
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/posts/2023/06/field_work/" rel="permalink">Field Work in Mozambique, June 2023
+</a>
+      
+    </h2>
+    
+
+    
+      <p class="page__date"><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> <time datetime="2023-06-26T00:00:00-07:00">June 26, 2023</time></p>
+    
+
+    
+  </article>
+</div>
+
+        
+          
+
+
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    
+
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/posts/2022/04/rotterdam2022/" rel="permalink">L2 Rotterdam Field Trip 2022
+</a>
+      
+    </h2>
+    
+
+    
+      <p class="page__date"><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> <time datetime="2022-04-24T00:00:00-07:00">April 24, 2022</time></p>
+    
+
+    
+  </article>
+</div>
+
+        
+          
+
+
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    
+
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/posts/2021/09/NCRM_secondarydata/" rel="permalink">The NCRM wayfinder guide to moving to secondary data analysis
+</a>
+      
+    </h2>
+    
+
+    
+      <p class="page__date"><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> <time datetime="2021-09-28T00:00:00-07:00">September 28, 2021</time></p>
+    
+
+    
+  </article>
+</div>
+
+        
+      </div>
+    </div>
+  
+</div>
+
+
+    <div class="page__footer">
+      <footer>
+        <!-- start custom footer snippets -->
+<a href="/sitemap/">Sitemap</a>
+<!-- end custom footer snippets -->
+
+        
+
+
+
+<div class="page__footer-copyright">&copy; 2023 Jacob L. Macdonald.</div>
+
+      </footer>
+    </div>
+
+    <script src="http://localhost:4000/assets/js/main.min.js"></script>
+
+
+
+
+  <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', '', 'auto');
+  ga('send', 'pageview');
+</script>
+
+
+
+
+
+
+  </body>
+</html>
+

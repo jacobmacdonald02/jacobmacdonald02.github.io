@@ -1,0 +1,485 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-11-10T02:08:02-08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Jacob Macdonald</title><subtitle>personal description</subtitle><author><name>Jacob L. Macdonald</name><email>j.macdonald@sheffield.ac.uk</email></author><entry><title type="html">30 Day Map Challenge - November 2023</title><link href="http://localhost:4000/posts/2023/11/map_challenge/" rel="alternate" type="text/html" title="30 Day Map Challenge - November 2023" /><published>2023-11-01T00:00:00-07:00</published><updated>2023-11-01T00:00:00-07:00</updated><id>http://localhost:4000/posts/2023/11/map_challenge</id><content type="html" xml:base="http://localhost:4000/posts/2023/11/map_challenge/">&lt;p&gt;&lt;span style=&quot;color: white;&quot;&gt;All maps are made with open source software and open data. Data cleaning and wrangling done in R with visuals produced in QGIS.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;&lt;span style=&quot;color: white;&quot;&gt;DAY 1 - POINTS&lt;/span&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;html&gt;
+  &lt;head&gt;
+    &lt;title&gt;&lt;span style=&quot;color: white;&quot;&gt;DAY 1 - POINTS&lt;/span&gt;&lt;/title&gt;
+  &lt;/head&gt;
+  &lt;style&gt;
+  .container {
+    display: flex;
+    align-items: left;
+    justify-content: left;
+  }
+  
+  img {
+    max-width: 100%;
+    max-height:100%;
+    float: left;
+  }
+  
+  .image {
+    flex-shrink: 0;
+  }
+  
+  .text {
+    font-size: 15px;
+    padding-left: 20px;
+    padding-bottom: 30%;
+    float: left;
+  }
+  &lt;/style&gt;
+  &lt;body&gt;
+    &lt;div class=&quot;container&quot;&gt;
+      &lt;div class=&quot;image&quot;&gt;
+        &lt;img style=&quot;margin: 3px 12px 3px 0px; border:1px solid black;&quot; src=&quot;/images/Blogs/Map_Challenge2023/1 - Points.jpeg&quot; height=&quot;400&quot; width=&quot;400&quot; /&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;text&quot;&gt;
+        &lt;span style=&quot;color: white; font-weight:bold; font-size:17px;&quot;&gt;Points:&lt;/span&gt; &lt;span style=&quot;color: white; font-size:15px;&quot;&gt;Here, we have a map of all populated places on the island of Newfoundland which have &quot;Point&quot; in their name. While not an inhabited settlement, and not shown here, by far the most famous 'Point' is likely to be &lt;a href=&quot;https://whc.unesco.org/en/list/1497/&quot; target=&quot;_blank&quot;&gt;Mistaken Point&lt;/a&gt; (Furthest Cape to the South-East). Here, for many years, sailors were often fatally &lt;i&gt;mistaken&lt;/i&gt; in their navigation due to weather and visibility. Thinking they had made it to the inhabited and navigable Cape Race, they would turn northwards and straight into the fog-masked cliffs. Mistaken Point is home to the worlds oldest fossils of complex organisms and about 600 km away from the Titanic's final resting place, being the receiver of the distress call.&lt;/span&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;&lt;span style=&quot;color: white;&quot;&gt;DAY 2 - LINES&lt;/span&gt;&lt;/strong&gt;&lt;/em&gt;
+ &lt;/p&gt;
+
+&lt;html&gt;
+  &lt;head&gt;
+    &lt;title&gt;&lt;span style=&quot;color: white;&quot;&gt;DAY 2 - LINES&lt;/span&gt;&lt;/title&gt;
+  &lt;/head&gt;
+  &lt;style&gt;
+  .container {
+    display: flex;
+    align-items: left;
+    justify-content: left;
+  }
+  
+  img {
+    max-width: 100%;
+    max-height:100%;
+    float: left;
+  }
+
+  .image {
+    flex-shrink: 0;
+  }
+  
+  .text {
+    font-size: 15px;
+    padding-left: 20px;
+    padding-bottom: 30%;
+    float: left;
+  }
+  &lt;/style&gt;
+  &lt;body&gt;
+    &lt;div class=&quot;container&quot;&gt;
+      &lt;div class=&quot;text&quot;&gt;
+        &lt;span style=&quot;color: white; font-weight:bold; font-size:17px;&quot;&gt;Lines:&lt;/span&gt; &lt;span style=&quot;color: white; font-size:15px;&quot;&gt;The Trans-Canada Highway is one of the lifelines of the country, linking the east and west coast across approx. 7,500 km. Work on the route started around 1950, with the main road spanning all ten provinces and 905 km in Newfoundland itself. Probably the most well known sentiment many Canadians have with the TCH relates to Terry Fox's Marathon of Hope. In April 1980, he first dipped his prosthetic leg off the St. John's coast at Mile 0 and ran his way across Canada, changing the face of Cancer research and lives everywhere.&lt;/span&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;image&quot;&gt;
+        &lt;img style=&quot;margin: 3px 12px 3px 0px; border:1px solid black;&quot; src=&quot;/images/Blogs/Map_Challenge2023/2 - Lines.jpeg&quot; height=&quot;400&quot; width=&quot;400&quot; /&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;&lt;span style=&quot;color: white;&quot;&gt;DAY 3 - POLYGONS&lt;/span&gt;&lt;/strong&gt;&lt;/em&gt;
+ &lt;/p&gt;
+
+&lt;html&gt;
+  &lt;head&gt;
+    &lt;title&gt;&lt;span style=&quot;color: white;&quot;&gt;DAY 3 - POLYGONS&lt;/span&gt;&lt;/title&gt;
+  &lt;/head&gt;
+  &lt;style&gt;
+  .container {
+    display: flex;
+    align-items: left;
+    justify-content: left;
+  }
+  
+  img {
+    max-width: 100%;
+    max-height:100%;
+    float: left;
+  }
+
+  .image {
+    flex-shrink: 0;
+  }
+  
+  .text {
+    font-size: 15px;
+    padding-left: 20px;
+    padding-bottom: 30%;
+    float: left;
+  }
+  &lt;/style&gt;
+  &lt;body&gt;
+    &lt;div class=&quot;container&quot;&gt;
+      &lt;div class=&quot;image&quot;&gt;
+        &lt;img style=&quot;margin: 3px 12px 3px 0px; border:1px solid black;&quot; src=&quot;/images/Blogs/Map_Challenge2023/3 - Polygons.jpeg&quot; height=&quot;400&quot; width=&quot;400&quot; /&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;text&quot;&gt;
+        &lt;span style=&quot;color: white; font-weight:bold; font-size:17px;&quot;&gt;Polygons:&lt;/span&gt; &lt;span style=&quot;color: white; font-size:15px;&quot;&gt;The ever important Moose Management Areas of Newfoundland. Originally not native to the island, &lt;a href=&quot;https://heritagenl.ca/discover/provincial-historic-commemorations-program-designations/introduction-of-moose-to-the-island-of-newfoundland/&quot; target=&quot;_blank&quot;&gt;four moose were brought to Newfoundland in 1904&lt;/a&gt; and they’ve since exploded on the scene with over 120,000 in number now. They can be a bit daft, wandering onto the roads and into cities to eat what they can find and lick the road salt in the winter. Newfoundland has some of the highest density of moose around, and vehicle collisions are a major issue in the province with around 600 accidents a year, often fatal. Lots of resources and interventions go into moose management as seen by the &lt;a href=&quot;https://www.gov.nl.ca/ffa/files/22282-Moose-Management-Report-July-12.pdf&quot; target=&quot;_blank&quot;&gt;Gov. NL 2022-26 Moose Management Plan&lt;/a&gt;.&lt;/span&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;&lt;span style=&quot;color: white;&quot;&gt;DAY 4 - BAD MAP&lt;/span&gt;&lt;/strong&gt;&lt;/em&gt;
+ &lt;/p&gt;
+
+&lt;html&gt;
+  &lt;head&gt;
+    &lt;title&gt;&lt;span style=&quot;color: white;&quot;&gt;DAY 4 - BAD MAP&lt;/span&gt;&lt;/title&gt;
+  &lt;/head&gt;
+  &lt;style&gt;
+  .container {
+    display: flex;
+    align-items: left;
+    justify-content: left;
+  }
+  
+  img {
+    max-width: 100%;
+    max-height:100%;
+    float: left;
+  }
+
+  .image {
+    flex-shrink: 0;
+  }
+  
+  .text {
+    font-size: 15px;
+    padding-left: 20px;
+    padding-bottom: 30%;
+    float: left;
+  }
+  &lt;/style&gt;
+  &lt;body&gt;
+    &lt;div class=&quot;container&quot;&gt;
+      &lt;div class=&quot;text&quot;&gt;
+        &lt;span style=&quot;color: white; font-weight:bold; font-size:17px;&quot;&gt;Bad Map:&lt;/span&gt; &lt;span style=&quot;color: white; font-size:15px;&quot;&gt;Bad Map. Phoning today in a bit, but hear me out… here’s a wonderful map - really lots of great information. But unfortunately I’ve made some very BAD colour design choices. Hard to see much when your map fill and borders match the background colour! Goes to show the importance of colour, contrast and design decisions for knowledge exchange and teaching.&lt;/span&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;image&quot;&gt;
+        &lt;img style=&quot;margin: 3px 12px 3px 0px; border:1px solid black;&quot; src=&quot;/images/Blogs/Map_Challenge2023/4 - Bad Map.jpeg&quot; height=&quot;400&quot; width=&quot;400&quot; /&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;&lt;span style=&quot;color: white;&quot;&gt;DAY 5 - ANALOG MAP&lt;/span&gt;&lt;/strong&gt;&lt;/em&gt;
+ &lt;/p&gt;
+
+&lt;html&gt;
+  &lt;head&gt;
+    &lt;title&gt;&lt;span style=&quot;color: white;&quot;&gt;DAY 5 - ANALOG MAP&lt;/span&gt;&lt;/title&gt;
+  &lt;/head&gt;
+  &lt;style&gt;
+  .container {
+    display: flex;
+    align-items: left;
+    justify-content: left;
+  }
+  
+  img {
+    max-width: 100%;
+    max-height:100%;
+    float: left;
+  }
+
+  .image {
+    flex-shrink: 0;
+  }
+  
+  .text {
+    font-size: 15px;
+    padding-left: 20px;
+    padding-bottom: 30%;
+    float: left;
+  }
+  &lt;/style&gt;
+  &lt;body&gt;
+    &lt;div class=&quot;container&quot;&gt;
+      &lt;div class=&quot;image&quot;&gt;
+        &lt;img style=&quot;margin: 3px 12px 3px 0px; border:1px solid black;&quot; src=&quot;/images/Blogs/Map_Challenge2023/5 - Non Digital.jpeg&quot; height=&quot;400&quot; width=&quot;400&quot; /&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;text&quot;&gt;
+        &lt;span style=&quot;color: white; font-weight:bold; font-size:17px;&quot;&gt;Analog:&lt;/span&gt; &lt;span style=&quot;color: white; font-size:15px;&quot;&gt;Here we have Newfoundland etched in stone at the Padrão dos Descobrimentos in Lisbon, Portugal. This massive *mappa mundi* is directly in front of the monument dedicated to the 15th/16th-c. Golden Age of Discoveries. The stone monument was erected in 1960 with the square out front and map given by the South African Government. The whole complex features rare lioz (royal) Lisbon limestone, and rose-tinted stone from Leiria.&lt;/span&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;&lt;span style=&quot;color: white;&quot;&gt;DAY 6 - ASIA&lt;/span&gt;&lt;/strong&gt;&lt;/em&gt;
+ &lt;/p&gt;
+
+&lt;html&gt;
+  &lt;head&gt;
+    &lt;title&gt;&lt;span style=&quot;color: white;&quot;&gt;DAY 6 - ASIA&lt;/span&gt;&lt;/title&gt;
+  &lt;/head&gt;
+  &lt;style&gt;
+  .container {
+    display: flex;
+    align-items: left;
+    justify-content: left;
+  }
+  
+  img {
+    max-width: 100%;
+    max-height:100%;
+    float: left;
+  }
+
+  .image {
+    flex-shrink: 0;
+  }
+  
+  .text {
+    font-size: 15px;
+    padding-left: 20px;
+    padding-bottom: 30%;
+    float: left;
+  }
+  &lt;/style&gt;
+  &lt;body&gt;
+    &lt;div class=&quot;container&quot;&gt;
+      &lt;div class=&quot;text&quot;&gt;
+        &lt;span style=&quot;color: white; font-weight:bold; font-size:17px;&quot;&gt;Asia:&lt;/span&gt; &lt;span style=&quot;color: white; font-size:15px;&quot;&gt;Ten years ago I took a field trip to China during my masters at Nova School of Business and Econ. hosted at Sun Yat-sen Uni. I originally wanted to be a labour economist until I saw the scale of urban development going on here.&lt;/span&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;image&quot;&gt;
+        &lt;img style=&quot;margin: 3px 12px 3px 0px; border:1px solid black;&quot; src=&quot;/images/Blogs/Map_Challenge2023/6 - Asia.jpeg&quot; height=&quot;400&quot; width=&quot;400&quot; /&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;&lt;span style=&quot;color: white;&quot;&gt;DAY 7 - NAVIGATION&lt;/span&gt;&lt;/strong&gt;&lt;/em&gt;
+ &lt;/p&gt;
+
+&lt;html&gt;
+  &lt;head&gt;
+    &lt;title&gt;&lt;span style=&quot;color: white;&quot;&gt;DAY 7 - NAVIGATION&amp;lt;&lt;/span&gt;&lt;/title&gt;
+  &lt;/head&gt;
+  &lt;style&gt;
+  .container {
+    display: flex;
+    align-items: left;
+    justify-content: left;
+  }
+  
+  img {
+    max-width: 100%;
+    max-height:100%;
+    float: left;
+  }
+
+  .image {
+    flex-shrink: 0;
+  }
+  
+  .text {
+    font-size: 15px;
+    padding-left: 20px;
+    padding-bottom: 30%;
+    float: left;
+  }
+  &lt;/style&gt;
+  &lt;body&gt;
+    &lt;div class=&quot;container&quot;&gt;
+      &lt;div class=&quot;image&quot;&gt;
+        &lt;img style=&quot;margin: 3px 12px 3px 0px; border:1px solid black;&quot; src=&quot;/images/Blogs/Map_Challenge2023/7 - Navigation.jpeg&quot; height=&quot;400&quot; width=&quot;400&quot; /&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;text&quot;&gt;
+        &lt;span style=&quot;color: white; font-weight:bold; font-size:17px;&quot;&gt;Navigation:&lt;/span&gt; &lt;span style=&quot;color: white; font-size:15px;&quot;&gt;Lighthouses have dotted our coastline since 1813 with the first lighthouse guiding ships from Fort Amherst through The Narrows.  As a historic maritime economy, these built structures were crucial. 44 lighthouses were built from 1832-1890. Today, many of these lighthouses are historic museums and built heritage standing tall on cliffs and capes. While often not functioning in the maritime sense, they still provide easy navigation and bearings for seafaring folk and landlubbers alike.&lt;/span&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;&lt;span style=&quot;color: white;&quot;&gt;DAY 8 - AFRICA&lt;/span&gt;&lt;/strong&gt;&lt;/em&gt;
+ &lt;/p&gt;
+
+&lt;html&gt;
+  &lt;head&gt;
+    &lt;title&gt;&lt;span style=&quot;color: white;&quot;&gt;DAY 8 - AFRICA&lt;/span&gt;&lt;/title&gt;
+  &lt;/head&gt;
+  &lt;style&gt;
+  .container {
+    display: flex;
+    align-items: left;
+    justify-content: left;
+  }
+  
+  img {
+    max-width: 100%;
+    max-height:100%;
+    float: left;
+  }
+
+  .image {
+    flex-shrink: 0;
+  }
+  
+  .text {
+    font-size: 15px;
+    padding-left: 20px;
+    padding-bottom: 30%;
+    float: left;
+  }
+  &lt;/style&gt;
+  &lt;body&gt;
+    &lt;div class=&quot;container&quot;&gt;
+      &lt;div class=&quot;text&quot;&gt;
+        &lt;span style=&quot;color: white; font-weight:bold; font-size:17px;&quot;&gt;Africa:&lt;/span&gt; &lt;span style=&quot;color: white; font-size:15px;&quot;&gt;This year I was so lucky to start a great project on flood and water management in Quelimane, Mozambique. Lots of participatory GIS and community-focused interventions. Here we have the elevation and watercourses of the Zambezia province for the 30 day map challenge. This area is particularly vulnerable to flooding and effects of climate change. Our project is looking at feasible community interventions locals can realistically adopt to mitigate against hazards. Project ongoing with @sleeffers, @patscaetano and @novafrica!&lt;/span&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;image&quot;&gt;
+        &lt;img style=&quot;margin: 3px 12px 3px 0px; border:1px solid black;&quot; src=&quot;/images/Blogs/Map_Challenge2023/8 - Africa.jpeg&quot; height=&quot;400&quot; width=&quot;400&quot; /&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;&lt;span style=&quot;color: white;&quot;&gt;DAY 9 - HEXAGONS&lt;/span&gt;&lt;/strong&gt;&lt;/em&gt;
+ &lt;/p&gt;
+
+&lt;html&gt;
+  &lt;head&gt;
+    &lt;title&gt;&lt;span style=&quot;color: white;&quot;&gt;DAY 9 - HEXAGONS&lt;/span&gt;&lt;/title&gt;
+  &lt;/head&gt;
+  &lt;style&gt;
+  .container {
+    display: flex;
+    align-items: left;
+    justify-content: left;
+  }
+  
+  img {
+    max-width: 100%;
+    max-height:100%;
+    float: left;
+  }
+
+  .image {
+    flex-shrink: 0;
+  }
+  
+  .text {
+    font-size: 15px;
+    padding-left: 20px;
+    padding-bottom: 30%;
+    float: left;
+  }
+  &lt;/style&gt;
+  &lt;body&gt;
+    &lt;div class=&quot;container&quot;&gt;
+      &lt;div class=&quot;image&quot;&gt;
+        &lt;img style=&quot;margin: 3px 12px 3px 0px; border:1px solid black;&quot; src=&quot;/images/Blogs/Map_Challenge2023/9 - Hexagons.jpeg&quot; height=&quot;400&quot; width=&quot;400&quot; /&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;text&quot;&gt;
+        &lt;span style=&quot;color: white; font-weight:bold; font-size:17px;&quot;&gt;Hexagons:&lt;/span&gt; &lt;span style=&quot;color: white; font-size:15px;&quot;&gt;Taking this one into the office today. Of course with hexagons, the first thing I now think of is our (un-sarcastically) beautiful brutalist hexagonal office building - home to the Department of Urban Studies and Planning and the Department of Geography. Built around 1970-71, the building is a series of interlocking hexagons - we knew hex spatial geometries would be cool for GIS long ago!&lt;/span&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Jacob L. Macdonald&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;</content><author><name>Jacob L. Macdonald</name><email>j.macdonald@sheffield.ac.uk</email></author><category term="Mapping" /><summary type="html">All maps are made with open source software and open data. Data cleaning and wrangling done in R with visuals produced in QGIS.</summary></entry><entry><title type="html">University of Sheffield Doctoral Times</title><link href="http://localhost:4000/posts/2023/07/doctoral_times/" rel="alternate" type="text/html" title="University of Sheffield Doctoral Times" /><published>2023-07-01T00:00:00-07:00</published><updated>2023-07-01T00:00:00-07:00</updated><id>http://localhost:4000/posts/2023/07/doctoral_times</id><content type="html" xml:base="http://localhost:4000/posts/2023/07/doctoral_times/">&lt;p&gt;&lt;span style=&quot;color: white;&quot;&gt;Contribution to the University of Sheffield Doctoral Times Summer 2023 Edition featuring an article on:&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.flipsnack.com/tuostimes/doctoral-times-open-research.html&quot; target=&quot;_blank&quot;&gt;The Open Research Project&lt;/a&gt;&lt;/p&gt;</content><author><name>Jacob L. Macdonald</name><email>j.macdonald@sheffield.ac.uk</email></author><category term="open science" /><summary type="html">Contribution to the University of Sheffield Doctoral Times Summer 2023 Edition featuring an article on:</summary></entry><entry><title type="html">Field Work in Mozambique, June 2023</title><link href="http://localhost:4000/posts/2023/06/field_work/" rel="alternate" type="text/html" title="Field Work in Mozambique, June 2023" /><published>2023-06-26T00:00:00-07:00</published><updated>2023-06-26T00:00:00-07:00</updated><id>http://localhost:4000/posts/2023/06/field_work</id><content type="html" xml:base="http://localhost:4000/posts/2023/06/field_work/">&lt;p&gt;&lt;em&gt;&lt;strong&gt;&lt;span style=&quot;color: white;&quot;&gt;There’s a first time for everything…&lt;/span&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img style=&quot;border:1px solid black;&quot; src=&quot;/images/Blogs/Moz1.jpeg&quot; alt=&quot;The Licungo River basin near Mocuba&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span style=&quot;color: white;&quot;&gt;Five years ago if you had told me I’d be in Mozambique doing field work on urban flood risks and erosion hazards I wouldn’t have believed it. But here we were hiking up the Licungo river basin near the city of Mocuba, late June when the &lt;a href=&quot;https://www.youtube.com/watch?v=4K_YPW-_Vnk&quot; target=&quot;_blank&quot;&gt;sunny sky was aqua blue&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span style=&quot;color: white;&quot;&gt;Our visit started in Quelimane, capital of the Zambezia province and a city at the nexus of multiple waterways and the coast. Situated on the Cuácua River (Rio dos Bons Sinais) about 25 km inland from the Indian Ocean, the whole city is often at risk during the cyclone season. Most recently by &lt;a href=&quot;https://www.theguardian.com/world/2023/mar/13/more-than-100-killed-as-storm-freddy-returns-to-mozambique-and-malawi&quot; target=&quot;_blank&quot;&gt;cyclone Freddy in March 2023&lt;/a&gt; which made landfall in Quelimane and from which the city is still rebuilding. Mangrove fields hugging the coastline are one of the main lines of (natural) defence to protect residents and the built environment against tidal surges and storm damage. Inland, riparian floods can cause significant damages at the confluence of different drainage basins during rainy periods.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img style=&quot;float:right; margin: 3px 12px 3px 0px; border:1px solid black;&quot; src=&quot;/images/Blogs/Moz2.jpeg&quot; height=&quot;400&quot; width=&quot;500&quot; alt=&quot;Flood defence and mangroves protecting the city centre&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span style=&quot;color: white;&quot;&gt;The work? An interdisciplinary, international and community-engaging research project coming from all our shared experience at &lt;a href=&quot;https://www.novasbe.unl.pt/en/&quot; target=&quot;_blank&quot;&gt;Nova School of Business and Economics&lt;/a&gt; and funded through the International Growth Centre (IGC). Myself, Stefan Leefers, &lt;a href=&quot;https://www.novasbe.unl.pt/en/faculty-research/faculty/faculty-detail/id/82/pedro-vicente&quot; target=&quot;_blank&quot;&gt;Pedro Vicente&lt;/a&gt; and Patricia Caetano all with ties to Nova - Stefan and I as former PhD students now lecturers in the UK, Pedro as professor and director of &lt;a href=&quot;https://novafrica.org/&quot; target=&quot;_blank&quot;&gt;Novafrica&lt;/a&gt;, and Patricia coming out of writing her dissertation to take on our project and field work coordination and bringing in a wealth of experience managing previous projects in the area. Although this was my first time there, between the rest of the team there was a collective experience of years working on economic development research with partners across Mozambique.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img style=&quot;float:left; margin: 3px 12px 3px 0px; border:1px solid black;&quot; src=&quot;/images/Blogs/Moz3.jpeg&quot; height=&quot;400&quot; width=&quot;500&quot; alt=&quot;Agricultural fields now eroded away by water&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span style=&quot;color: white;&quot;&gt;Our broad project aim is to study at-risk areas where we have the intersection of population growth, land use pressures and water hazards (flooding, erosion). Our initial visit helped us to understand what feasible and efficient urban interventions (e.g. drainage, building and land use choices, informal constructions, mangrove protections) and community-led initiatives could be successfully promoted to allow local areas to build resilience against increasing threats of flooding and impacts of climate change.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img style=&quot;float:right; margin: 3px 12px 3px 0px; border:1px solid black;&quot; src=&quot;/images/Blogs/Moz4.jpeg&quot; height=&quot;700&quot; width=&quot;300&quot; alt=&quot;Map of Mozambique&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span style=&quot;color: white;&quot;&gt;Data science and open GIS data work (e.g. &lt;a href=&quot;https://www.worldpop.org/&quot; target=&quot;_blank&quot;&gt;WorldPop&lt;/a&gt;, &lt;a href=&quot;https://earthengine.google.com/&quot; target=&quot;_blank&quot;&gt;Google Earth Engine&lt;/a&gt;, &lt;a href=&quot;https://sepal.io/&quot; target=&quot;_blank&quot;&gt;Sepal.io&lt;/a&gt;, &lt;a href=&quot;https://www.planet.com/&quot; target=&quot;_blank&quot;&gt;Planet&lt;/a&gt;) allowed us to identify target areas of interest to visit beforehand, which we validated on site with local resident experts. What caught me the most was the vast potential (and limitations) of finding different open source datasets to better understand the local environment, landscape and challenges. But also, it is crucially important to think in detail about what pre packaged datasets, indicators, aggregations or reported values actually represent in situ. Even the highest of data resolutions and most frequent collection mechanisms can only tell us so much of the story without considering the real local dimension of the nature and people on the ground. Biases around who collects, uses, has access to and is actually represented in each of the data must also always be considered. While open source remote sensing land use data goes a long way towards mitigating some of these biases, all data analysis should be accompanied by a critical reflection on the source inputs and methods.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span style=&quot;color: white;&quot;&gt;In Quelimane we met with and presented some work to local officials including Mayor Manuel de Araujo, &lt;a href=&quot;https://tda-mobility.org/fireside-chat-with-manuel-de-araujo-mayor-of-quelimane/&quot; target=&quot;_blank&quot;&gt;a champion for positive urban regeneration in the city&lt;/a&gt;. He held a palestra (town hall seminar) at the local câmara municipal for workers and the public (and well attended live streamed!) for my project partners to describe outputs from Novafrica’s previous projects and for us to introduce the current team and our ongoing work. Follow up meetings and discussions were very useful to learn best practices, where we can support ongoing work, and to make sure our research aligns with realities on the ground.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img style=&quot;margin: 3px 12px 3px 0px; border:1px solid black;&quot; src=&quot;/images/Blogs/Moz5.jpeg&quot; height=&quot;500&quot; width=&quot;900&quot; alt=&quot;Local town hall&quot; /&gt;&lt;em&gt;https://www.facebook.com/watch/?v=787432366201149&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span style=&quot;color: white;&quot;&gt;Quelimane was lovely, in the peak of their winter season. With peri-peri chicken, prawns, freshly caught fish, xima, matapa and mucapata on the menu, there was never a scarcity of choice for delicious food. One thing which struck me about the city was the scale of active travel adoption, with almost everyone cycling and much fewer cars (even bicycle taxis!). The city centre had dedicated biking infrastructure and colourful urban interventions, and this was said to be a key priority area for the municipality. Having a Dutch research partner beside me on the cycle filled streets of Quelimane, I could have easily thought I was out on our annual &lt;a href=&quot;https://docs.google.com/document/d/1OQQB3kKA8ofGEWeYjPx84nWZAFUrESR3llievoWJqG0/edit&quot; target=&quot;_blank&quot;&gt;USP Level 3 field trip to Rotterdam&lt;/a&gt; (though slightly nicer weather).&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img style=&quot;margin: 3px 12px 3px 0px; border:1px solid black;&quot; src=&quot;/images/Blogs/Moz6.jpeg&quot; height=&quot;500&quot; width=&quot;900&quot; alt=&quot;Active travel infrastructure&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span style=&quot;color: white;&quot;&gt;A pre-sunrise departure brought us inland to Mocuba where we saw different types of flooding impacts, having experienced significant damages and flooding in 2015. Ultimately there was a planning success story with local policy and enforcement measures managing to stop the reconstruction of more informal residences in these risky areas post-flooding. Residents were incentivized to move to new development areas away from immediate risk. The Licungo river margin around Mocuba is no longer dotted with dwellings at risk anytime there are high water events, but is now mainly for leisure, commerce and domestic uses.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img style=&quot;margin: 3px 12px 3px 0px; border:1px solid black;&quot; src=&quot;/images/Blogs/Moz7.jpeg&quot; height=&quot;700&quot; width=&quot;900&quot; alt=&quot;Touring water infrastructure in Mocuba&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span style=&quot;color: white;&quot;&gt;After making sure Patricia was settled in for her field work coordination in Quelimane over the next few months, the rest of us spent the last days of the visit in the capital city of Maputo. Here, the local IGC team was great in helping to coordinate meetings and discussions with relevant research and policy stakeholders. A caipirinha on the last evening there while seated overlooking the relatively new Maputo-Katembe bridge spanning Maputo Bay was a perfect cap-off to the experience.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span style=&quot;color: white;&quot;&gt;Foi uma experiência maravilhosa e profundamente importante para a análise de dados que vai seguir. Research collaborations can lead you to great places and great outcomes.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Jacob L. Macdonald&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img style=&quot;margin: 3px 12px 3px 0px; border:1px solid black;&quot; src=&quot;/images/Blogs/Moz8.jpeg&quot; height=&quot;1500&quot; width=&quot;900&quot; /&gt;&lt;/p&gt;</content><author><name>Jacob L. Macdonald</name><email>j.macdonald@sheffield.ac.uk</email></author><category term="Field Work" /><category term="Research" /><summary type="html">There’s a first time for everything…</summary></entry><entry><title type="html">L2 Rotterdam Field Trip 2022</title><link href="http://localhost:4000/posts/2022/04/rotterdam2022/" rel="alternate" type="text/html" title="L2 Rotterdam Field Trip 2022" /><published>2022-04-24T00:00:00-07:00</published><updated>2022-04-24T00:00:00-07:00</updated><id>http://localhost:4000/posts/2022/04/rotterdam2022</id><content type="html" xml:base="http://localhost:4000/posts/2022/04/rotterdam2022/">&lt;p&gt;&lt;em&gt;&lt;strong&gt;&lt;span style=&quot;color: white;&quot;&gt;There and back again; what a trip!&lt;/span&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span style=&quot;color: white;&quot;&gt;From March 28 to April 1 the TRP215 Researching the City staff and students expertly navigated a field trip with both domestic and international parts to study urban research methodologies and flood risk management. Spanning Sheffield, Hull and Rotterdam, the groups were inundated with information on everything from the power of water(s), natural and sustainable water management techniques, urban design and interactions with the natural, built and social environment. The main theme coming out stressed the importance of communities and local engagement – comparing different contexts on either side of the North Sea.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img style=&quot;float:right; margin: 3px 12px 3px 0px; border:1px solid black;&quot; src=&quot;/images/Blogs/Rot1.jpeg&quot; height=&quot;400&quot; width=&quot;500&quot; alt=&quot;Students at the Hull storm surge barrier.&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span style=&quot;color: white;&quot;&gt;Starting in Hull, we explored how the second most at risk city in Britain deals with and addresses the hazards water can have. What creates a unique challenge is protecting a city at risk from all three main causes of flooding: the rivers (fluvial); the sea (coastal); and rainstorms (pluvial). Flood risk management has thus formed a long part of its history and heritage. Students were guided around the city with John Craig, Head of Planning, to see first-hand the risks and interventions that have been adopted - from the past to the present. Our tour finished along the newly developed Humber frontages, walking and experiencing the way the city has balanced risk management and urban planning to create an aesthetic and functional public space.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span style=&quot;color: white;&quot;&gt;Nearby Derringham was an area heavily impacted by once in a lifetime floods in 2007. Students did a walking tour of the neighbourhood with a local community guide, Paul and Chrissy Collinson from The Friends of Garrowby Orchard, to get a perspective on the local impacts and responses. The group toured different management strategies and interventions in the local area including the developed detention basin for managing flood waters and the Garrowby community Orchard.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span style=&quot;color: white;&quot;&gt;Moving from the urban perspective to a more rural one, Nicky Wilson of the Environmental Agency provided a fantastic tour of the ongoing managed coastal realignment projects at Skeffling. Here, we saw the converse of the Humber frontages – as the new flood defence and frontages in Hull extended into the estuary, comparable land further out in the estuary had to be re-converted to appropriate freshwater marsh and saltmarsh.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span style=&quot;color: white;&quot;&gt;This day was topped off with a walk along Spurn where some, including Prof. Liz Sharp herself, completed the 9 km round trip trek out to the lighthouse at Spurn Point and back. Others with more passive ambitions (inc. myself) took in a more relaxed afternoon of beachcombing and exploring the thin tidal island. Out at Spurn we had the luxury of having great walking weather and the space to meet and mingle outside of the Yorkshire Wildlife Trust Discovery Centre as an entire group. Here, we had lunch and a great talk from Adam Stoyle and Rosie Jaques at the Yorkshire Wildlife Trust about the Discovery Centre building itself, their work, the past and future of the coastal area.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img style=&quot;margin: 3px 12px 3px 0px; border:1px solid black;&quot; src=&quot;/images/Blogs/Rot2.jpeg&quot; height=&quot;500&quot; width=&quot;900&quot; alt=&quot;Group picture at Spurn Discovery Centre &amp;amp; Yorkshire Wildlife Trust&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span style=&quot;color: white;&quot;&gt;On this evening the entire group was also treated to a delicious and local community focused meal cooked and provided by the Hull and East Riding Feast collective. Just to show how important and impactful academic research collaborations can be, the evening and meal emerged with help from research collaborators of Liz and her work on water management in Hull. During the meal, students heard about her research in the area, Dr. Gill Hughes from the University of Hull then spoke about the Flood Innovation Centre. The dinner was coordinated by Kate Macdonald, who is a Director of Timebank Hull and East Riding and provides links with the local community for Liz’s research.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span style=&quot;color: white;&quot;&gt;The trip then split with some returning to Sheffield for a list of local activities, and others continuing on over to Europe’s busiest port city – Rotterdam, The Netherlands. Almost immediately, the contrast was on show and the national scale and importance of water was clear. The comparison of flood risk management at both the city (Hull) and regional (South Holland) level provided some important context. It was frequently commented that we couldn’t turn our head in any direction without seeing water of some form – canals, water bodies, rivers, coastlines, raised waterways. Along with the corresponding infrastructure – bridge, gates, barriers, walls, and the cycling!&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span style=&quot;color: white;&quot;&gt;With almost 2/3 of the country’s most productive land area at risk of flooding, Dutch engineering was on full display highlighting the series of water defence infrastructure and more natural interventions protecting the length of the coastline. The first stop off the boat got us walking along the Maeslantkering storm surge barrier, one of the largest moving structures on earth protecting the port and city of Rotterdam. At the adjacent Keringhuis visitor centre, the group got the engineering perspective for how the greater Delta Works project – a series of dams, locks, dykes and barriers, all work together to protect the country.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img style=&quot;margin: 3px 12px 3px 0px; border:1px solid black;&quot; src=&quot;/images/Blogs/Rot3.jpeg&quot; height=&quot;500&quot; width=&quot;900&quot; alt=&quot;Students at the interactive Kerringhuis visitor centre (left); and touring the Maeslantkering storm surge barrier (right)&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span style=&quot;color: white;&quot;&gt;In Rotterdam, the aims were all about exploring urban green and blue infrastructure interventions around the city – their form, function, location and features. On the afternoon of the arrival the group was greeted by Dr. Jannes Willems from the University of Amsterdam, providing some great context to the region, ongoing work and regeneration and overall flood and water planning in the areas. He presented the group with his own particularly relevant research work on getting active community participation for climate adaptable urban areas and introducing sustainable urban drainage projects.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span style=&quot;color: white;&quot;&gt;The next day, groups of students ventured off into the urban jungle to conduct their field work. They were given what was essentially a scavenger hunt of urban green and blue sites across the city to study and critique. Specifically, the groups were asked to comment on the design, accessibility, and community/public engagement with these types of urban features and amenities. Students used their senses to study how a given area or intervention might appeal to a local resident’s sense of sight, sound, smell, placement, and ease of mobility. In these active environments, students could consider urban water management, planning and the entire urban dynamics at play and in interaction.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span style=&quot;color: white;&quot;&gt;Students made the most of the mandated free and leisure time the following day. Given the efficiency of Dutch public transit, day trips were made to The Hague, Deft, Amsterdam and Utrecht. From here, this was the starting point of many students setting off on a second leg for some much needed onward travelling experience with friends before the holiday break. The others made our return to the ferry for the trip back. Almost as if in reverse we made our way from the port and back through Hull, passing the city centre, the storm surge barrier and eventually back into Sheffield.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span style=&quot;color: white;&quot;&gt;And so, a successful trip for the undergraduate cohort of TRP215. Jointly a great hands on learning experience for students and a unique opportunity to get out into new environments during their academic time. From the staff’s collective point of view, the students were fantastic – engaged, motivated and interested. Great ambassadors for the University!&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Jacob L. Macdonald&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img style=&quot;margin: 3px 12px 3px 0px; border:1px solid black;&quot; src=&quot;/images/Blogs/Rot4.jpeg&quot; height=&quot;500&quot; width=&quot;900&quot; alt=&quot;There and back again, across the North Sea&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img style=&quot;margin: 3px 12px 3px 0px; border:1px solid black;&quot; src=&quot;/images/Blogs/Rot5a.jpeg&quot; height=&quot;700&quot; width=&quot;900&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img style=&quot;margin: 3px 12px 3px 0px; border:1px solid black;&quot; src=&quot;/images/Blogs/Rot5b.jpeg&quot; height=&quot;700&quot; width=&quot;900&quot; /&gt;&lt;/p&gt;</content><author><name>Jacob L. Macdonald</name><email>j.macdonald@sheffield.ac.uk</email></author><category term="Field Trip" /><category term="Teaching" /><summary type="html">There and back again; what a trip!</summary></entry><entry><title type="html">The NCRM wayfinder guide to moving to secondary data analysis</title><link href="http://localhost:4000/posts/2021/09/NCRM_secondarydata/" rel="alternate" type="text/html" title="The NCRM wayfinder guide to moving to secondary data analysis" /><published>2021-09-28T00:00:00-07:00</published><updated>2021-09-28T00:00:00-07:00</updated><id>http://localhost:4000/posts/2021/09/NCRM_secondarydata</id><content type="html" xml:base="http://localhost:4000/posts/2021/09/NCRM_secondarydata/">&lt;p&gt;&lt;span style=&quot;color: white;&quot;&gt;Writing developed for the National Centre for Research Methods (NCRM) wayfinder guides.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://eprints.ncrm.ac.uk/id/eprint/4474/&quot; target=&quot;_blank&quot;&gt;https://eprints.ncrm.ac.uk/id/eprint/4474/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://eprints.ncrm.ac.uk/id/eprint/4474/1/NCRM%20Wayfinder%20guide%20to%20moving%20to%20secondary%20data%20analysis.pdf&quot; target=&quot;_blank&quot;&gt;https://eprints.ncrm.ac.uk/id/eprint/4474/1/NCRM%20Wayfinder%20guide%20to%20moving%20to%20secondary%20data%20analysis.pdf&lt;/a&gt;&lt;/p&gt;</content><author><name>Jacob L. Macdonald</name><email>j.macdonald@sheffield.ac.uk</email></author><category term="research_methods" /><category term="data" /><summary type="html">Writing developed for the National Centre for Research Methods (NCRM) wayfinder guides.</summary></entry><entry><title type="html">Local Data Spaces Programme</title><link href="http://localhost:4000/posts/2021/05/local_data_spaces/" rel="alternate" type="text/html" title="Local Data Spaces Programme" /><published>2021-05-05T00:00:00-07:00</published><updated>2021-05-05T00:00:00-07:00</updated><id>http://localhost:4000/posts/2021/05/local_data_spaces</id><content type="html" xml:base="http://localhost:4000/posts/2021/05/local_data_spaces/">&lt;p&gt;&lt;span style=&quot;color: white;&quot;&gt;Collected links and writings about the Local Data Spaces programme - winner of the 2021 ONS Research Excellence Award. A six month collaboration between ADR-UK, the ONS, and the Joint Biosecurity Centre. I was fortunate to be one of the embedded researchers using secure national data and registries to explore local economic vulnerabilities and challenges.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.cdrc.ac.uk/local-data-spaces/&quot;&gt;https://www.cdrc.ac.uk/local-data-spaces/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.adruk.org/our-work/browse-all-projects/local-data-spaces-helping-local-authorities-tackle-the-covid-19-pandemic-362/&quot;&gt;https://www.adruk.org/our-work/browse-all-projects/local-data-spaces-helping-local-authorities-tackle-the-covid-19-pandemic-362/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.liverpool.ac.uk/environmental-sciences/news/articles/local-authorites-encoruaged-to-use-covid-19-impact-analysis-to-aid-recovery&quot;&gt;https://www.liverpool.ac.uk/environmental-sciences/news/articles/local-authorites-encoruaged-to-use-covid-19-impact-analysis-to-aid-recovery&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.ukri.org/news-and-events/tackling-the-impact-of-covid-19/recovery-and-rebuilding/local-data-spaces-wins-ons-research-excellence-award/&quot;&gt;https://www.ukri.org/news-and-events/tackling-the-impact-of-covid-19/recovery-and-rebuilding/local-data-spaces-wins-ons-research-excellence-award/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.adruk.org/news-publications/news-blogs/adr-uk-funded-local-data-spaces-wins-ons-research-excellence-award-467/&quot;&gt;https://www.adruk.org/news-publications/news-blogs/adr-uk-funded-local-data-spaces-wins-ons-research-excellence-award-467/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.ons.gov.uk/news/news/projectboostinglocalauthoritycovidresponseswinstop2021onsresearchexcellenceaward&quot;&gt;https://www.ons.gov.uk/news/news/projectboostinglocalauthoritycovidresponseswinstop2021onsresearchexcellenceaward&lt;/a&gt;&lt;/p&gt;</content><author><name>Jacob L. Macdonald</name><email>j.macdonald@sheffield.ac.uk</email></author><category term="data" /><category term="research_methods" /><summary type="html">Collected links and writings about the Local Data Spaces programme - winner of the 2021 ONS Research Excellence Award. A six month collaboration between ADR-UK, the ONS, and the Joint Biosecurity Centre. I was fortunate to be one of the embedded researchers using secure national data and registries to explore local economic vulnerabilities and challenges.</summary></entry></feed>

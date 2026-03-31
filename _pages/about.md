@@ -31,7 +31,7 @@ Nova School of Business and Economics
 - **BSc (Hons) in Economics and Statistics** (2012)<br>
 Memorial University of Newfoundland and Labrador
 <br>
-- **PG Certificate in Teaching for Learning in Higher Education in Economics and Finance** (2024)<br>
+- **PG Certificate in Teaching for Learning in Higher Education** (2024)<br>
 University of Sheffield
 <br/>
 
